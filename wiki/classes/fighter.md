@@ -23,28 +23,36 @@ Choose a specialization at character creation. Its defining features should arri
 
 | Level | BAB | Fort | Ref | Will | Class features |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 1 | +1 | +2 | +0 | +0 | Fighting Style; specialization feature |
+| 1 | +1 | +2 | +0 | +0 | [Fighting Style](abilities/fighter/fighting-style.md); specialization feature |
 | 2 | +2 | +3 | +0 | +0 | Bonus Combat Feat |
-| 3 | +3 | +3 | +1 | +1 | Weapon Training |
+| 3 | +3 | +3 | +1 | +1 | [Weapon Training](abilities/fighter/weapon-training.md) |
 | 4 | +4 | +4 | +1 | +1 | Bonus Combat Feat |
-| 5 | +5 | +4 | +2 | +2 | Conditioning; specialization feature |
-| 6 | +6 / +1 | +5 | +2 | +2 | Weapon Training |
+| 5 | +5 | +4 | +2 | +2 | [Conditioning](abilities/fighter/conditioning.md); specialization feature |
+| 6 | +6 / +1 | +5 | +2 | +2 | [Weapon Training](abilities/fighter/weapon-training.md) |
 | 7 | +7 / +2 | +5 | +3 | +3 | Bonus Combat Feat |
-| 8 | +8 / +3 | +6 | +3 | +3 | Armor Mastery |
+| 8 | +8 / +3 | +6 | +3 | +3 | [Armor Mastery](abilities/fighter/armor-mastery.md) |
 | 9 | +9 / +4 | +6 | +4 | +4 | Specialization feature |
-| 10 | +10 / +5 | +7 | +4 | +4 | Bonus Combat Feat; Conditioning |
-| 11 | +11 / +6 / +1 | +7 | +5 | +5 | Weapon Training |
-| 12 | +12 / +7 / +2 | +8 | +5 | +5 | Armor Mastery |
+| 10 | +10 / +5 | +7 | +4 | +4 | Bonus Combat Feat; [Conditioning](abilities/fighter/conditioning.md) |
+| 11 | +11 / +6 / +1 | +7 | +5 | +5 | [Weapon Training](abilities/fighter/weapon-training.md) |
+| 12 | +12 / +7 / +2 | +8 | +5 | +5 | [Armor Mastery](abilities/fighter/armor-mastery.md) |
 | 13 | +13 / +8 / +3 | +8 | +6 | +6 | Specialization feature |
 | 14 | +14 / +9 / +4 | +9 | +6 | +6 | Bonus Combat Feat |
-| 15 | +15 / +10 / +5 | +9 | +7 | +7 | Conditioning |
-| 16 | +16 / +11 / +6 / +1 | +10 | +7 | +7 | Weapon Training |
+| 15 | +15 / +10 / +5 | +9 | +7 | +7 | [Conditioning](abilities/fighter/conditioning.md) |
+| 16 | +16 / +11 / +6 / +1 | +10 | +7 | +7 | [Weapon Training](abilities/fighter/weapon-training.md) |
 | 17 | +17 / +12 / +7 / +2 | +10 | +8 | +8 | Specialization feature |
-| 18 | +18 / +13 / +8 / +3 | +11 | +8 | +8 | Armor Mastery |
+| 18 | +18 / +13 / +8 / +3 | +11 | +8 | +8 | [Armor Mastery](abilities/fighter/armor-mastery.md) |
 | 19 | +19 / +14 / +9 / +4 | +11 | +9 | +9 | Bonus Combat Feat |
-| 20 | +20 / +15 / +10 / +5 | +12 | +9 | +9 | Master of Arms; specialization capstone; Bonus Combat Feat |
+| 20 | +20 / +15 / +10 / +5 | +12 | +9 | +9 | [Master of Arms](abilities/fighter/master-of-arms.md); specialization capstone; Bonus Combat Feat |
 
-The exact benefits and advancement of Fighting Style, Weapon Training, Conditioning, Armor Mastery, and Master of Arms remain to be defined. The level-20 Combat Feat is a class-granted capstone choice, separate from any general character feat progression.
+[Fighting Style](abilities/fighter/fighting-style.md), [Weapon Training](abilities/fighter/weapon-training.md), [Conditioning](abilities/fighter/conditioning.md), [Armor Mastery](abilities/fighter/armor-mastery.md), and [Master of Arms](abilities/fighter/master-of-arms.md) are now defined below under Class Abilities. A Bonus Combat Feat lets the Fighter select any feat tagged **(Combat Feat)** (see [Defender Combat Feats](../feats/defender-combat-feats.md) and [Mounted Combat](../game-mechanics/mounted-combat.md)), even if the Fighter does not meet that feat's non-BAB prerequisites. The level-20 Combat Feat is a class-granted capstone choice, separate from any general character feat progression.
+
+## Class Abilities
+
+- [Fighting Style](abilities/fighter/fighting-style.md)
+- [Weapon Training](abilities/fighter/weapon-training.md)
+- [Conditioning](abilities/fighter/conditioning.md)
+- [Armor Mastery](abilities/fighter/armor-mastery.md)
+- [Master of Arms](abilities/fighter/master-of-arms.md)
 
 ## Specializations
 

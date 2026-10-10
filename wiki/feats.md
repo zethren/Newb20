@@ -83,4 +83,12 @@ The entries below are class features, not selectable feats. They are listed here
 - [Warden's Watch](classes/abilities/bodyguard/wardens-watch.md)
 - [Hardened Veteran](classes/abilities/bodyguard/hardened-veteran.md)
 
+### Fighter
+
+- [Fighting Style](classes/abilities/fighter/fighting-style.md)
+- [Weapon Training](classes/abilities/fighter/weapon-training.md)
+- [Conditioning](classes/abilities/fighter/conditioning.md)
+- [Armor Mastery](classes/abilities/fighter/armor-mastery.md)
+- [Master of Arms](classes/abilities/fighter/master-of-arms.md)
+
 The Bear's Maneuvering Stance and the Stand Ground combat feat are distinct rules with different effects.
