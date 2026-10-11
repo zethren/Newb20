@@ -30,3 +30,13 @@ For bonus types not listed above, apply the general rules in [Attributes](../att
 ### Losing Dodge AC
 
 When a condition makes a character Flat-Footed or says they lose their Dexterity and Dodge bonuses, remove the entire **Dexterity AC** and **Dodge AC** components, regardless of bonus type. Retain Armor AC, Shield AC, Natural Armor AC, Deflection AC, Luck AC, and Size AC unless a specific effect says otherwise.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+<a href="../attributes.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Attributes</a>
+<a href="animal-companions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Animal Companions</a>
+<a href="conditions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Conditions</a>
+</nav>

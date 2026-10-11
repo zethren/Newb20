@@ -204,3 +204,14 @@ Clerics prepare spells according to the class progression. Spell save DCs follow
 | [Mass Heal](../spells/cleric/mass-heal.md) | Necromancy | Choose up to ten creatures within range. Positive energy restores 10d8 + 1d8 per 4 caster levels + your Wisdom modifier hit points to each living target, up to its maximum. Each undead target instead takes that amount as positive-energy damage and can make a Will save to take half damage. |
 | [Shapechange](../spells/cleric/shapechange.md) | Transmutation | For 1 hour, take the form of a beast or humanoid you have seen, within one size category of your own; retain ability... |
 | [Time Stop](../spells/cleric/time-stop.md) | Transmutation | Take three consecutive turns during which other creatures cannot perceive or affect you and you cannot affect them... |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+<a href="../spells/cleric/protection-from-evil.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Protection from Evil</a>
+<a href="../spells/cleric/shield-of-faith.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Shield of Faith</a>
+<a href="../spells/cleric/lantern-courier.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Lantern Courier</a>
+<a href="../spells/cleric/create-water.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Create Water</a>
+<a href="../spells/cleric/detect-magic.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Detect Magic</a>
+</nav>

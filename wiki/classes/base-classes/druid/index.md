@@ -54,7 +54,7 @@ Choose a circle at 1st level. Circle features are gained at Druid levels 1, 6, 1
 
 Druids prepare divine spells using Wisdom. Their spell list focuses on nature, weather, healing, summoning, and transformation. The Druid uses the shared full-caster spell-level progression in [Classes](../../index.md#full-spell-level-progression). Spell slots, preparation limits, and recovery are class-specific. See the [Druid spell list](../../../spell-lists/druid.md) for available spells and individual spell rules.
 
-## Core Features
+## Class Features
 
 ### Druidic
 
@@ -98,3 +98,9 @@ Choose one circle at 1st level. Its features are gained at levels 1, 6, 10, 14, 
 Circle of the Storm does not gain Wild Shape. Its elemental features replace the Druid's Wild Shape feature and its improvements at levels 1, 4, and 12.
 
 **Related:** [Transformation Rules](../../../game-mechanics/transformations.md) · [Natural Spell](../../../feats/natural-spell.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

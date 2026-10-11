@@ -17,3 +17,13 @@
 **Effect.** You or one willing creature touched becomes visually undetectable for 1 minute/CL. The spell ends for that creature when it attacks or casts a spell.
 
 [Return to Wizard spells of level 2](../../spell-lists/wizard.md#level-2)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+<a href="../../spell-lists/wizard.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Wizard Spell List</a>
+<a href="instant-summons.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Instant Summons</a>
+<a href="iron-body.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Iron Body</a>
+<a href="irresistible-dance.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Irresistible Dance</a>
+</nav>

@@ -1,12 +1,10 @@
-# Core Game Mechanic: Revised Sunder & Item Durability
+# Item Durability and Sundering
 
-## 1. Magic Item Resilience Rule
-Enchanted and magical equipment (weapons, armor, shields) possess an indestructible core matrix that prevents absolute annihilation.
-* **The Rule:** Magic items can never have their structural Hit Points reduced to 0. They cannot be completely shattered, vaporized, or destroyed via combat maneuvers.
-* **The Floor Threshold:** A magic item's durability pool can only be reduced down to a minimum floor of **1 Hit Point**. At this threshold, the item is locked into the **Broken Status Condition** until physically or magically repaired. 
-* **Mundane Comparison:** Non-magical (mundane) items do not possess this resilience net and are completely destroyed when reduced to 0 HP.
+## Magic Item Durability
 
-## 2. Status Condition Specification: Broken
+Magic items cannot be destroyed by reducing their structural Hit Points to 0. Their durability cannot fall below **1 Hit Point**; at that point, the item is Broken until repaired. Mundane items are destroyed when reduced to 0 HP.
+
+## Broken Items
 
 ### Broken Weapons
 When a weapon (mundane or magical) is reduced to or below 50% of its maximum structural Hit Points, it cracks, warps, or fractures, compromising its combat efficacy:
@@ -19,3 +17,12 @@ When a defensive protective item is reduced to or below 50% of its maximum struc
 * **The Defense Tax:** The static Armor Class (AC) or Shield bonus granted to the wearer is immediately cut in **half** (rounded down).
 * **Magical Suppression:** All magical Enhancement bonuses and special armor properties (e.g., *Fortification*, *Energy Resistance*) are completely suppressed and deactivated while the armor remains broken.
 * **The Encumbrance Tax:** The item's native Armor Check Penalty is doubled.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="health.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Health, Dying, and Recovery</a>
+<a href="magic-item-enchantments.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Magic Item Enchantments</a>
+<a href="maneuvers.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Martial Maneuvers</a>
+</nav>

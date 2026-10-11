@@ -42,7 +42,7 @@ The Barbarian is a durable martial combatant who channels raw fury into physical
 
 Fortitude and Will use the common d20 good-save progression; Reflex uses the poor-save progression.
 
-## Core Features
+## Class Features
 
 ### Rage
 
@@ -143,3 +143,9 @@ When you enter Rage, each enemy within 30 feet that can perceive you must succee
 While raging, you gain an additional **+2 Supernatural bonus on Will saves**. This bonus stacks with your Rage bonus on Will saves.
 
 **Related:** [Classes](../../index.md) · [Conditions](../../../game-mechanics/conditions.md) · [Armor Class Components](../../../game-mechanics/armor-class.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

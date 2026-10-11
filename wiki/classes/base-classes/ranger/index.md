@@ -42,7 +42,7 @@ Choose a specialization at 1st level. You gain its first feature at 3rd level, t
 | 19 | +19 / +14 / +9 / +4 | +11 | +11 | +9 | Unerring Pursuit |
 | 20 | +20 / +15 / +10 / +5 | +12 | +12 | +9 | Master of the Hunt; specialization capstone |
 
-## Core Features
+## Class Features
 
 ### Hunter's Mark
 
@@ -99,3 +99,9 @@ Choose one specialization at 1st level. Specialization features begin at 3rd lev
 | [Stalker](specializations/stalker.md) | Solo pursuit, stealth, and ambush | Stalker's Quarry, Ambush, Silent Approach, Covering Shadow, Unerring Mark, and Death Strike |
 | [Beastmaster](specializations/beastmaster.md) | An animal companion and coordinated pack tactics | Animal Companion, Coordinated Hunt, Pack Tactics, Guardian Bond, Shared Quarry, and Perfect Pack |
 | [Trapper](specializations/trapper.md) | Snares, traps, and battlefield control | Prepared Traps, Quick Set, Binding Snare, Layered Traps, Masterwork Traps, and Master Trapper |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

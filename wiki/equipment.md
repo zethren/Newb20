@@ -2,7 +2,7 @@
 
 ## Magical Items
 
-[Magic Item Enchantments](game-mechanics/magic-item-enchantments.md) defines Enchantment Points, the Shifter property, shared non-weapon enchantments, and item-specific effects. Creating permanent magic items requires a relevant [Crafting Feat](feats.md#crafting-feats).
+[Magic Item Enchantments](game-mechanics/magic-item-enchantments.md) defines Enchantment Points, item properties, shared non-weapon enchantments, and item-specific effects. Creating permanent magic items requires a relevant [Crafting Feat](feats.md#crafting-feats).
 
 ## Durability
 
@@ -11,25 +11,16 @@
 ## Shields and Defensive Gear
 
 - [Defender Combat Feats](feats/defender-combat-feats.md) describes using a shield to protect an adjacent ally.
-- [Bodyguard](classes/prestige-classes/bodyguard/index.md) describes the Warden's Shield interaction.
 - [Mounted Combat](game-mechanics/mounted-combat.md) describes saddles and locking harnesses, including their effects on a rider who fails a stability check.
 
 ## Weapons
 
-- Natural-weapon slots, damage scaling, and damage types are documented in [Primal Shifter](classes/base-classes/primal-shifter/index.md).
+- Natural-weapon slots, damage scaling, and damage types follow the shared [Combat Scaling](game-mechanics/combat-scaling.md#natural-weapon-properties) rules.
 - Weapon durability and the Broken weapon penalties are documented in [Item Durability](game-mechanics/item-durability.md).
 
 ## Transformations
 
-[Transformation Rules](game-mechanics/transformations.md) distinguish supernatural natural-shifter transformations from magical Polymorph and Wild Shape effects.
-
-### Natural Shifter
-
-When a natural shifter changes form using its own supernatural ability, worn and carried items fall in the nearest unoccupied spaces. Items with the **Shifter** enchantment remain with the shifter and reshape to fit; they still cannot be manipulated or activated if the form prevents it.
-
-### Polymorph and Wild Shape
-
-When a creature is changed by a Polymorph or [Druid Wild Shape](classes/base-classes/druid/index.md#wild-shape) effect, worn and carried items meld into its new form and are inaccessible. Their magical properties are suppressed until the effect ends, when the items reappear.
+[Transformation Rules](game-mechanics/transformations.md) define how worn and carried items behave during natural shifting, Polymorph, and Wild Shape.
 
 ## Healing Kits
 
@@ -37,4 +28,12 @@ When a creature is changed by a Polymorph or [Druid Wild Shape](classes/base-cla
 
 ## Scrolls
 
-The standard purchase price for a scroll is **50 gp × spell level × caster level**. This price includes the parchment, inks, and other materials. Treat a cantrip as a 1st-level spell when calculating its price. The [Wizard](classes/base-classes/wizard/index.md#scribe-scroll) rules define scroll crafting. [Use Magic Device](skills/use-magic-device.md#activating-scrolls-and-wands) defines scroll and wand activation.
+The standard purchase price for a scroll is **50 gp × spell level × caster level**. This price includes the parchment, inks, and other materials. Treat a cantrip as a 1st-level spell when calculating its price. The [Scribe Scroll feature](classes/base-classes/wizard/index.md#scribe-scroll) defines scroll crafting. [Use Magic Device](skills/use-magic-device.md#activating-scrolls-and-wands) defines scroll and wand activation.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="feats.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Feats</a>
+<a href="skills.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Skills</a>
+</nav>

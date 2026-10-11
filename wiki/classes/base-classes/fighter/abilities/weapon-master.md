@@ -39,3 +39,13 @@ Increase your preferred weapon's critical damage multiplier by one additional st
 Weapon critical profiles and general critical-hit resolution need a shared rule.
 
 **Related:** [Fighter](../index.md) · [Weapon Training](weapon-training.md) · [Item Durability](../../../../game-mechanics/item-durability.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Fighter</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../../game-mechanics/item-durability.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Item Durability and Sundering</a>
+<a href="weapon-training.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Weapon Training</a>
+<a href="master-of-arms.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Master of Arms</a>
+</nav>

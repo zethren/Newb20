@@ -1,10 +1,10 @@
-# System Specification: Unified Mounted Combat & Player Mount Engine
+# Mounted Combat
 
-This document outlines the operational rules, action economy constraints, defensive redirection arrays, and target restriction matrices applied when a character mounts a willing ally, domesticated steed, or advanced predatory form on the tactical map grid.
+These rules govern mounting, mounted penalties, Ride checks, and the effects of failing a check.
 
 ---
 
-## 1. Core Mount Prerequisites & Footprint Fusion
+## Mounting and Space
 
 To establish a legal Rider-Mount unit on the tactical map coordinate grid, two baseline physical constraints must be satisfied:
 *   **The Size Delta:** The Mount must be **at least one size category larger** than the Rider (e.g., a Medium Human can ride a Large Wolf; a Medium Elf can ride a Huge Bear).
@@ -13,48 +13,48 @@ To establish a legal Rider-Mount unit on the tactical map coordinate grid, two b
 
 ---
 
-## 2. Universal Mounted Penalties & Actions Taxes (The Defenses & Accuracy Maluses)
+## Mounted Penalties
 
 Any character actively riding a creature is subjected to a constant state of kinetic turbulence. These penalties apply globally unless explicitly neutralized via advanced feats or specialized gear.
 
-### 2.1. Attribute & Combat Accuracy Maluses
+### Attack and AC Penalties
 *   **Standard Mounted Penalty:** The Rider suffers a flat **-2 penalty to all Melee/Ranged Attack Rolls (AB)** and a **-2 penalty to Armor Class (AC)** due to unstable footing.
 *   **The Bestial Turbulence Multiplier:** If the creature being ridden is a wild predator, untamed monster, or shape-shifted ally form (such as a **Wolf** or **Bear**), the kinetic disruption is doubled. The Rider instead suffers a severe **-4 penalty to AB** and a **-4 penalty to AC**.
 
-### 2.2. Spellcasting While Mounted
+### Spellcasting
 *   **The Concentration Tax:** Executing any spell possessing Somatic or Verbal components while mounted requires an immediate, mandatory **Concentration Check (DC = 15 + Spell Level)** due to the constant jarring motion of the steed. If this check is failed, the spell fails and its casting resource is expended.
 
 ---
 
-## 3. Dynamic Scaling Stability Events (Getting Unseated)
+## Ride Checks to Stay Mounted
 
 A Rider must immediately execute a **Ride Skill Check** to maintain their seat and avoid being violently unseated whenever any of the following high-exertion triggers occur:
 
-### Event A: The Mount Attacks (Recoil Stability)
+### The Mount Attacks
 Every time the Mount executes a single attack roll or a full cascading iterative routine, the sheer violence of their muscle contraction threatens to throw the Rider.
-*   **The Scaling Formula:** \[\text{Ride DC} = \text{The Mount's Highest Total Attack Roll Result for that Turn}\]
+*   **The Scaling Formula:** `Ride DC = the mount's highest total attack roll result for that turn`
 
-### Event B: The Mount Sustains Damage (Impact Stability)
+### The Mount Takes Damage
 When the Mount takes a heavy blow, they stumble, rear back, or buckle under the impact force.
-*   **The Scaling Formula:** \[\text{Ride DC} = 10 + \text{Net Hit Point Damage Sustained by the Mount (Post-DR)}\]
+*   **The Scaling Formula:** `Ride DC = 10 + net Hit Point damage the mount sustains after Damage Reduction`
 *   **The Multi-Hit Clause:** If the Mount is struck multiple times within a single turn cycle, the Rider must roll a separate, independent Ride check against each unique damage entry that successfully pierces the Mount's Damage Reduction or Hardness.
 
-### Event C: Severe Structural Disruptions
+### The Mount Is Restrained or Displaced
 If the Mount suffers absolute physical displacement, the stability thresholds lock at severe baseline formulas:
-*   **The Mount enters a Grappled or Pinned Gate:** \[\text{Ride DC} = 15 + \text{Mount's Strength Modifier}\]
-*   **The Mount is knocked Prone or Overrun:** \[\text{Ride DC} = 20 + \text{Mount's Strength Modifier}\]
+*   **The Mount enters a Grappled or Pinned Gate:** `Ride DC = 15 + the mount's Strength modifier`
+*   **The Mount is knocked Prone or Overrun:** `Ride DC = 20 + the mount's Strength modifier`
 
 ---
 
-## 4. Stability Failure States & Equipment Core Parameters
+## Failing a Ride Check
 
 If a Rider fails any scaling Ride Check listed above, the engine evaluates their equipped gear slot profile to determine the physical outcome of the whiplash:
 
-### Profile A: Standard Saddle / Un-Secured Riding
+### Standard Saddle
 The Rider is cleanly ejected from the saddle:
 *   **The Crash Vector:** The Rider is thrown into a chosen adjacent 5-foot grid square, sustains `1d6` blunt falling damage, and instantly inherits the **Prone** status condition. Ground-based enemies adjacent to their landing square receive an immediate Attack of Opportunity against the fallen Rider.
 
-### Profile B: Locking Harness / Securing Saddle (The Gear Fix)
+### Locking Harness
 The Rider is strapped into a heavy, reinforced framework of iron brackets and leather braces that physically prevents ejection.
 *   **The Mechanical Safety:** The Rider **cannot be unseated or knocked off** via standard attack or damage stability checks. They remain locked onto the Mount's back.
 *   **The Whiplash Tax:** Because their body is rigidly fused to a thrashing apex predator, their joints take the full structural trauma of the impact. The moment a Ride Check is failed, the Rider completely avoids falling off, but **instantly inherits the Staggered status condition until the start of their next turn** as they catch their breath from severe kinetic whiplash.
@@ -62,7 +62,7 @@ The Rider is strapped into a heavy, reinforced framework of iron brackets and le
 
 ---
 
-### 5. Advanced Mounted Combat Feats
+## Related Feats
 
 #### Mounted Combat (Combat Feat)
 See the standalone [Mounted Combat feat](../feats/mounted-combat.md).
@@ -98,3 +98,13 @@ To preserve strict grid physics, ground-based attackers face absolute hard-coded
     1.  They utilize a weapon possessing the **Reach** property (e.g., a longspear, pike, or halberd).
     2.  They are targeting the *Mount* instead of the Rider.
     3.  The ground attacker themselves is of an equal or larger size category than the Mount.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="../feats/mounted-combat.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Mounted Combat</a>
+<a href="../feats/cavalry-synchronization.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Cavalry Synchronization</a>
+<a href="../feats/savage-cavalry.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Savage Cavalry</a>
+<a href="../feats/mounted-reflexes.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Mounted Reflexes</a>
+</nav>

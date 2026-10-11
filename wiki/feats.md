@@ -130,7 +130,7 @@ Crafting feats allow characters to make permanent magic items in the listed cate
 
 The entries below are class features, not selectable feats. They are listed here as a single index of character options.
 
-### Primal Shifter: Shared Features
+### General Shifting Features
 
 - [Shifting Talent](classes/base-classes/primal-shifter/abilities/shifting-talent.md)
 - [Nature Sense](classes/base-classes/primal-shifter/abilities/nature-sense.md)
@@ -143,37 +143,37 @@ The entries below are class features, not selectable feats. They are listed here
 - [Persistent Shifting](classes/base-classes/primal-shifter/abilities/persistent-shifting.md)
 - [Swift Shifting](classes/base-classes/primal-shifter/abilities/swift-shifting.md)
 
-### Primal Shifter: Wolf
+### Wolf Form Features
 
 - [Snatch](classes/base-classes/primal-shifter/abilities/snatch.md)
 - [Pack Tactics](classes/base-classes/primal-shifter/abilities/pack-tactics.md)
 - [Alpha's Howl](classes/base-classes/primal-shifter/abilities/alphas-howl.md)
 
-### Primal Shifter: Feline
+### Feline Form Features
 
 - [Pounce](classes/base-classes/primal-shifter/abilities/pounce.md)
 - [Feline Sneak Attack](classes/base-classes/primal-shifter/abilities/feline-sneak-attack.md)
 
-### Primal Shifter: Bear
+### Bear Form Features
 
 - [Bear Damage Reduction](classes/base-classes/primal-shifter/abilities/bear-damage-reduction.md)
 - [Guardian's Intercept](classes/base-classes/primal-shifter/abilities/guardians-intercept.md)
 - [Bear's Maneuvering Stance](classes/base-classes/primal-shifter/abilities/bear-maneuvering-stance.md)
 - [Demoralizing Roar](classes/base-classes/primal-shifter/abilities/demoralizing-roar.md)
 
-### Primal Shifter: Turtle
+### Turtle Form Features
 
 - [Shell Guard](classes/base-classes/primal-shifter/abilities/shell-guard.md)
 - [Undertow](classes/base-classes/primal-shifter/abilities/undertow.md)
 - [Shell Fortress](classes/base-classes/primal-shifter/abilities/shell-fortress.md)
 
-### Primal Shifter: Raccoondog
+### Raccoondog Form Features
 
 - [Misdirection](classes/base-classes/primal-shifter/abilities/misdirection.md)
 - [Slip Away](classes/base-classes/primal-shifter/abilities/slip-away.md)
 - [False Double](classes/base-classes/primal-shifter/abilities/false-double.md)
 
-### Primal Shifter: Raven
+### Raven Form Features
 
 - [Talon Snatch](classes/base-classes/primal-shifter/abilities/talon-snatch.md)
 - [Raven's Eye](classes/base-classes/primal-shifter/abilities/ravens-eye.md)
@@ -198,3 +198,11 @@ The entries below are class features, not selectable feats. They are listed here
 - [Cavalier](classes/base-classes/fighter/abilities/cavalier.md)
 
 The Bear's Maneuvering Stance and the Stand Ground combat feat are distinct rules with different effects.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="combat.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat</a>
+<a href="classes/index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="skills.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Skills</a>
+</nav>

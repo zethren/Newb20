@@ -29,3 +29,13 @@ A healing kit is required for Short-Term and Long-Term Care. Apply one **Circums
 | High-quality kit, salve, or herbal remedy | +5 |
 
 The modifier comes from the supplies used for that treatment; multiple kits or remedies do not combine into additional modifiers.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../skills.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Skills</a>
+<a href="../game-mechanics/health.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Health, Dying, and Recovery</a>
+<a href="handle-animal.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Handle Animal</a>
+<a href="investigation.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Investigation</a>
+<a href="lore-arcana.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Lore (Arcana)</a>
+</nav>

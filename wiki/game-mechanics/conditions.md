@@ -41,7 +41,7 @@ The character is ensnared by vines, nets, sticky resins, or localized magical bo
 * **Movement Limit:** The character moves at half speed and cannot execute a Charge action.
 * **Accuracy Tax:** The character suffers a flat **-2 penalty on all attack rolls**.
 * **Defensive Tax:** The character suffers a flat **-4 penalty to their effective Dexterity score**, reducing their AC and Reflex saves by 2.
-* **Casting Gate:** Casting any spell requires a Concentration Check ($DC = 15 + \text{Spell Level}$). On a failure, the spell fails and its casting resource is expended.
+* **Casting Gate:** Casting any spell requires a Concentration Check (`DC = 15 + spell level`). On a failure, the spell fails and its casting resource is expended.
 
 ### Fatigued
 The character is physically exhausted from overexertion or environmental hazards.
@@ -111,3 +111,13 @@ The character cannot see their surroundings due to darkness, magical curses, or 
 The character cannot perceive acoustic frequencies.
 * **Tactical Tax:** The character automatically fails all sound-based Perception checks and suffers a flat -4 penalty on Initiative checks.
 * **Casting Gate:** Any spell cast that includes a verbal component faces a flat **20% spell failure chance**, rolled on a d100 at the moment of execution.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="armor-class.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Armor Class Components</a>
+<a href="combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+<a href="flight.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Flight Rules</a>
+<a href="grapple-and-throw.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Grapple, Thrash, and Throw</a>
+</nav>

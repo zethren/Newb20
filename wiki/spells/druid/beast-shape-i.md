@@ -35,3 +35,13 @@ The Fox is a Small, cat-sized animal form. It gains a +2 Size bonus to Dexterity
 | Claw 2 (off hand) | 1d3 | Piercing and slashing |
 
 Adjust natural-attack damage to the Fox's current size using the [weapon damage by size table](../../game-mechanics/combat-scaling.md#weapon-damage-by-size). The Fox profile is a Beast Shape I effect, not a Primal Shifter form or tier.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+<a href="../../spell-lists/druid.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Druid Spell List</a>
+<a href="../../game-mechanics/transformations.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Transformation Rules</a>
+<a href="../../game-mechanics/combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+<a href="beast-call-viii.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Beast Call VIII</a>
+</nav>

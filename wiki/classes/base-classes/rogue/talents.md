@@ -2,7 +2,7 @@
 
 You gain one Rogue Talent at every even Rogue level from 2nd through 20th. Unless a talent says otherwise, you can select it only once.
 
-## Core Combat and Defense Talents
+## Combat and Defense Talents
 
 | Talent | Prerequisite | Description |
 | --- | --- | --- |
@@ -71,3 +71,14 @@ A strike talent can be applied when you hit a Flanked or Flat-Footed target, but
 | Parry | Use a reaction to deflect or reduce an incoming melee attack. |
 | Riposte | Counterattack after successfully parrying or avoiding a melee attack. |
 | Mobile Duelist | Move around an engaged opponent while limiting the risk of retaliation. |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Rogue</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="talents/lethal-precision.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Lethal Precision</a>
+<a href="talents/improved-lethal-precision.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Improved Lethal Precision</a>
+<a href="talents/greater-lethal-precision.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Greater Lethal Precision</a>
+<a href="talents/bleeding-strike.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Bleeding Strike</a>
+</nav>

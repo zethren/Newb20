@@ -49,7 +49,7 @@ Fortitude and Reflex use the common d20 good-save progression; Will uses the poo
 
 At 1st level, a Primal Shifter gains a supernatural ability to change between their normal form and any animal form whose tier they have unlocked. Shifting into a form or returning to normal is a Standard Action and can be done at will. A shifted form lasts for 1 hour, or until the Shifter returns to normal or becomes unconscious. At 12th level, [Persistent Shifting](abilities/persistent-shifting.md) removes this duration limit; at 20th level, [Swift Shifting](abilities/swift-shifting.md) lets the Shifter shift at will as a Free Action.
 
-When shifted, apply the selected form's cumulative tier features and its size and ability adjustments in addition to the global [size modifiers](../../../game-mechanics/combat-scaling.md#size-modifiers). Shifter forms do not grant speech or manual dexterity. Worn or carried items are dropped unless they have the [Shifter enchantment](../../../game-mechanics/magic-item-enchantments.md#universal-item-properties); see the [Natural Shifter equipment rule](../../../equipment.md#natural-shifter) and [Transformation Rules](../../../game-mechanics/transformations.md).
+When shifted, apply the selected form's cumulative tier features and its size and ability adjustments in addition to the [size modifiers](../../../game-mechanics/combat-scaling.md#size-modifiers). Shifter forms do not grant speech or manual dexterity. Worn or carried items follow the [natural-shifter transformation rules](../../../game-mechanics/transformations.md#natural-shifters), including the [Shifter enchantment](../../../game-mechanics/magic-item-enchantments.md#item-properties).
 
 ## Form Profiles
 
@@ -62,7 +62,7 @@ When shifted, apply the selected form's cumulative tier features and its size an
 
 Whenever the class grants a [Shifting Talent](abilities/shifting-talent.md), select one form and advance it by one tier, up to the maximum tier allowed by class level. Form modifiers are added to the [global size and natural-weapon rules](../../../game-mechanics/combat-scaling.md).
 
-## Core Features
+## Class Features
 
 - [Shifting Talent](abilities/shifting-talent.md)
 - [Nature Sense](abilities/nature-sense.md)
@@ -76,3 +76,9 @@ Whenever the class grants a [Shifting Talent](abilities/shifting-talent.md), sel
 - [Swift Shifting](abilities/swift-shifting.md)
 
 Spellcasting is not specified.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

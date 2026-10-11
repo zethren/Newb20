@@ -42,19 +42,27 @@ The following skills are available to characters. Each entry lists its default a
 | [Lore (Dungeoneering)](skills/lore-dungeoneering.md) | Intelligence | Knowledge (Dungeoneering). |
 | [Lore (Geography)](skills/lore-geography.md) | Intelligence | Knowledge (Geography). |
 | [Lore (History)](skills/lore-history.md) | Intelligence | Knowledge (History). |
-| [Lore (Nature)](skills/lore-nature.md) | Intelligence | Knowledge (Nature); improved by the Primal Shifter's Nature Sense. |
+| [Lore (Nature)](skills/lore-nature.md) | Intelligence | Knowledge (Nature); improved by [Nature Sense](classes/base-classes/primal-shifter/abilities/nature-sense.md). |
 | [Lore (Nobility)](skills/lore-nobility.md) | Intelligence | Knowledge (Nobility and royalty). |
 | [Lore (Planes)](skills/lore-planes.md) | Intelligence | Knowledge (The Planes). |
 | [Lore (Religion)](skills/lore-religion.md) | Intelligence | Knowledge (Religion). |
 | [Open Lock](skills/open-lock.md) | Dexterity | - |
-| [Perception](skills/perception.md) | Wisdom | Spot, Listen; Bodyguard entry requirement. |
+| [Perception](skills/perception.md) | Wisdom | Spot and Listen. |
 | [Perform](skills/perform.md) | Charisma | - |
 | [Profession](skills/profession.md) | Wisdom | - |
 | [Persuasion](skills/persuasion.md) | Charisma (or Strength for intimidation with Intimidating Presence) | Bluff, Diplomacy, Intimidate. |
 | [Ride](skills/ride.md) | Dexterity | Mounted stability, redirection, and feat prerequisites. |
 | [Sense Motive](skills/sense-motive.md) | Wisdom | - |
 | [Stealth](skills/stealth.md) | Dexterity | Hide, Move Silently, Sleight of Hand. |
-| [Survival](skills/survival.md) | Wisdom | Active scent tracking; improved by the Primal Shifter's Nature Sense. See [Scent](game-mechanics/scent.md). |
+| [Survival](skills/survival.md) | Wisdom | Active scent tracking; improved by [Nature Sense](classes/base-classes/primal-shifter/abilities/nature-sense.md). See [Scent](game-mechanics/scent.md). |
 | [Use Magic Device](skills/use-magic-device.md) | Charisma | - |
 
 This catalog preserves documented prerequisites and uses while providing a starting skill list. Each class lists its class skills in its respective class entry.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="attributes.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Attributes</a>
+<a href="exploration-and-survival.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Exploration and Survival</a>
+<a href="game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+</nav>

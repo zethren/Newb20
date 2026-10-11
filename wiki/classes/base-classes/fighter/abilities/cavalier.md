@@ -35,3 +35,13 @@ The extra damage from Mounted Momentum increases to **2d6**.
 Your Cavalry Training bonus increases to **+4**, and the extra damage from Mounted Momentum increases to **3d6**. When that extra damage is dealt as part of a mounted charge, double it to **6d6**. This doubles only Mounted Momentum's extra damage, not the attack's weapon damage or other bonuses; it is still not multiplied on a critical hit.
 
 **Related:** [Fighter](../index.md) · [Ride](../../../../skills/ride.md) · [Mounted Combat](../../../../game-mechanics/mounted-combat.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Fighter</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../../game-mechanics/mounted-combat.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Mounted Combat</a>
+<a href="../../../../skills/ride.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Ride</a>
+<a href="armor-mastery.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Armor Mastery</a>
+</nav>

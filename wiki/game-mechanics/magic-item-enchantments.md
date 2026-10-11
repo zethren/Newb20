@@ -27,15 +27,15 @@ Numerical bonuses from magic items are Enhancement bonuses unless an item proper
 
 If an item's Enhancement bonus raises a character's primary spellcasting ability, any bonus spell slot gained from that increase persists through rests; see the [bonus spell-slot rules](../spells.md#bonus-spell-slot-progression).
 
-## Universal Item Properties
+## Item Properties
 
 These properties can be added to any item type.
 
 | Enchantment | Effect | Cost |
 | --- | --- | ---: |
-| Shifter | The item reshapes to fit the wearer's or bearer's Primal Shifter form and remains with them when a transformation uses the Primal Shifter item rule. It does not override restrictions on manipulating or activating items in that form. | 4 EP |
+| Shifter | The item reshapes to fit its wearer or bearer in a natural-shifter form and remains with them when a transformation uses the [natural-shifter item rule](transformations.md#natural-shifters). It does not override restrictions on manipulating or activating items in that form. | 4 EP |
 
-## Shared Non-Weapon Enchantments
+## Non-Weapon Enchantments
 
 In addition to the effects in their item-type tables, armor, rings, clothing, boots, amulets, gloves, helmets, and Ioun Stones can have saving throw and skill enhancements. These bonuses are Enhancement bonuses; the dedicated Ioun Stone effects below retain their separate Ioun Stone bonus type. Armor, rings, clothing, amulets, helmets, and Ioun Stones can also have Spell resistance.
 
@@ -151,3 +151,14 @@ Multiple Ioun Stones can benefit the same character. An Ioun Stone bonus stacks 
 ## Temporary Enchantments
 
 Temporary class-feature effects do not consume or change an item's permanent EP capacity. Their bonuses still follow the applicable stacking rules, including the rule that a Weapon Enchantment bonus and an Enhancement bonus to the same attack or damage statistic do not stack.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="../feats.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Feats</a>
+<a href="../spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+<a href="transformations.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Transformation Rules</a>
+<a href="armor-class.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Armor Class Components</a>
+<a href="../feats/kitsune-tail-feats.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Kitsune Magical Tails</a>
+</nav>

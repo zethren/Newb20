@@ -42,7 +42,7 @@ Rogues develop their skills and combat style by selecting Rogue Talents as they 
 | 19 | +14 / +9 / +4 | +9 | +11 | +9 | Sneak Attack 10d6 |
 | 20 | +15 / +10 / +5 | +9 | +12 | +9 | Rogue Talent |
 
-## Core Features
+## Class Features
 
 ### Expertise
 
@@ -63,3 +63,9 @@ At 3rd level, the Rogue can use Perception to find traps and Disable Device to d
 You gain one Rogue Talent at every even level from 2nd through 20th. Some talents have a minimum Rogue level or require another talent.
 
 Choose from the [Rogue Talents](talents.md) available to you. Talents can expand Sneak Attack damage, impose debilitating effects, or grant advanced infiltration abilities.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

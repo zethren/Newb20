@@ -2,7 +2,7 @@
 
 This section is the home for shared rules and system-wide tables. Combat, Equipment, and Exploration pages act as additional topic indexes into these mechanics.
 
-## Core Resolution Terms
+## Resolution Terms
 
 - **AB:** Attack Bonus.
 - **AD:** Attack Damage, the damage dealt by a successful attack.
@@ -16,7 +16,7 @@ For a maneuver check, roll `d20 + MAB` and compare the result with the target's 
 - **MAB:** `BAB + Strength modifier + size modifier + miscellaneous modifiers`.
 - **MAD:** `10 + BAB + Strength modifier + Dexterity modifier + size modifier + miscellaneous modifiers`.
 
-Use ability modifiers, not raw ability scores. Apply size modifiers from the [Combat Scaling](game-mechanics/combat-scaling.md#size-modifiers) table. Miscellaneous modifiers include applicable bonuses such as [Pack Tactics](classes/base-classes/primal-shifter/abilities/pack-tactics.md) and [Bear's Maneuvering Stance](classes/base-classes/primal-shifter/abilities/bear-maneuvering-stance.md). A feat may explicitly allow a character to substitute a different ability modifier for Strength when calculating MAB; such a substitution does not add to Strength unless the feat says otherwise.
+Use ability modifiers, not raw ability scores. Apply size modifiers from the [Combat Scaling](game-mechanics/combat-scaling.md#size-modifiers) table. Apply any other modifiers specified by the relevant effect. A feat may explicitly allow a character to substitute a different ability modifier for Strength when calculating MAB; such a substitution does not add to Strength unless the feat says otherwise.
 
 Against a fixed Difficulty Class (DC), a check succeeds if its total meets or exceeds the DC. In a contested check, compare the participants' totals; the higher total succeeds, and the defender wins ties. This also applies to Attack Bonus (AB) checks against Armor Class (AC) and saving throws against a DC.
 
@@ -45,6 +45,10 @@ Damage has one or more types. A type determines which resistances, vulnerabiliti
 Older terms map to the standard type as follows: electricity or lightning to Electric, thunder to Sonic, radiant or divine to Holy, necrotic to Corrupt, force to Magic, and bludgeoning to Blunt. Use the standard type names in new rules. Elemental damage means Acid, Cold, Electric, Fire, or Sonic damage. Physical attacks can have multiple physical types simultaneously, as described in [Combat Scaling](game-mechanics/combat-scaling.md#natural-weapon-properties).
 
 An effect's own rules specify its targets, amount, and any saving throw. Holy and Corrupt damage are distinct from Positive and Negative energy and have no automatic healing interaction.
+
+## Energy Resistance
+
+Energy Resistance X reduces each instance of matching energy damage by X, to a minimum of 0. Energy Resistance 5 also allows comfortable existence in environments of that energy type without environmental hazard damage or associated penalties.
 
 ## Basic Action Economy
 
@@ -78,7 +82,7 @@ You and an ally flank a creature when you both threaten it with melee attacks an
 
 Base land speed is determined by current size in the [Combat Scaling table](game-mechanics/combat-scaling.md#size-modifiers); an ancestry trait can set a different base speed. Heavy armor reduces a 30-foot speed to **20 feet**. Encumbrance halves movement speed; a heavily encumbered character cannot move at all. An ancestry trait can negate speed reductions from armor or encumbrance, but does not negate the inability to move while heavily encumbered.
 
-## Universal Tables
+## Tables
 
 - [Combat Scaling](game-mechanics/combat-scaling.md): global size modifiers, 5-ft square sharing, size-based utility, and weapon damage scaling.
 - [Damage Types](#damage-types): standard damage type names and terminology.
@@ -95,7 +99,7 @@ Base land speed is determined by current size in the [Combat Scaling table](game
 - [Mounted Combat](game-mechanics/mounted-combat.md)
 - [Sneak Attack](game-mechanics/sneak-attack.md)
 
-### Other Shared Rules
+### Other Rules
 
 - [Item Durability](game-mechanics/item-durability.md)
 - [Magic Item Enchantments](game-mechanics/magic-item-enchantments.md)
@@ -103,3 +107,11 @@ Base land speed is determined by current size in the [Combat Scaling table](game
 - [Scent and Tracking](game-mechanics/scent.md)
 - [Swimming](game-mechanics/swimming.md)
 - [Transformation Rules](game-mechanics/transformations.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="combat.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat</a>
+<a href="equipment.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Equipment</a>
+<a href="spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+</nav>

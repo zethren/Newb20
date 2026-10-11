@@ -40,3 +40,13 @@ At 18th level, you can direct your companion to attack, use a special ability, o
 At 20th level, once per turn you can direct your companion as a Free Action. When your companion hits a creature, choose one ally within 5 feet of it. That ally gains a +2 Supernatural bonus on their next attack roll against that creature before the start of your next turn. This bonus does not stack with itself.
 
 **Related:** [Druid](../index.md) · [Animal Companions](../../../../game-mechanics/animal-companions.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Druid</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../../game-mechanics/animal-companions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Animal Companions</a>
+<a href="moon.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Circle of the Moon</a>
+<a href="storm.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Circle of the Storm</a>
+</nav>

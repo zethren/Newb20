@@ -196,3 +196,14 @@ An original Wizard catalog of familiar d20 spell concepts across all eight schoo
 | [Wail of the Banshee](../spells/wizard/wail-of-the-banshee.md) | Necromancy | Up to six creatures make Fortitude saves or take 1d6 corrupt damage per caster level; success halves damage. A target reduced to 0 HP by this spell dies. |
 | [Time Stop](../spells/wizard/time-stop.md) | Transmutation | Immediately after this turn, you take two extra turns. |
 | [Shapechange](../spells/wizard/shapechange.md) | Transmutation | For 1 hour/CL, assume the appearance and movement modes of a beast you have seen, retaining your HP... |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../classes/base-classes/wizard/index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Wizard</a>
+<a href="../spells/wizard/mage-armor.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Mage Armor</a>
+<a href="../spells/wizard/shield.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Shield</a>
+<a href="../spells/wizard/grease.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Grease</a>
+<a href="../spells/wizard/unseen-servant.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Unseen Servant</a>
+<a href="../spells/wizard/detect-magic.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Detect Magic</a>
+</nav>

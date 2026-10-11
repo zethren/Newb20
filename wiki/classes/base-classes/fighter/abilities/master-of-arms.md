@@ -8,3 +8,13 @@ Master of Arms sharpens the Fighter's two core progression features to their ful
 - **Armor Perfection:** The Armor AC bonus gained from [Armor Mastery](armor-mastery.md) at 18th level increases by an additional +1 (a total of +2 above the armor's own Armor AC value). The Armor Check Penalty reduction and maximum Dexterity bonus increase from Armor Mastery apply even while the Fighter wears armor they are not proficient with; the Fighter gains no other Armor Mastery benefit from non-proficient armor.
 
 **Related:** [Fighter](../index.md) · [Weapon Training](weapon-training.md) · [Armor Mastery](armor-mastery.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Fighter</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="weapon-training.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Weapon Training</a>
+<a href="armor-mastery.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Armor Mastery</a>
+<a href="fighting-style.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Fighting Style</a>
+</nav>

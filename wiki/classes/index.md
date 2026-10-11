@@ -12,8 +12,7 @@
 - [Druid](base-classes/druid/index.md): a versatile nature spellcaster who supports nature-themed allies through utility, animal companions, elemental magic, and Wild Shape.
 - [Wizard](base-classes/wizard/index.md): an Intelligence-based prepared arcane caster who chooses a school and bonds with a staff or familiar.
 - [Sorcerer](base-classes/sorcerer/index.md): a Charisma-based spontaneous caster whose magic comes from a bloodline.
-- [Primal Shifter](base-classes/primal-shifter/index.md): a martial shapeshifter with six animal-form progressions.
-- [Primal Shifter form profiles](base-classes/primal-shifter/index.md#form-profiles): Wolf, Feline, Bear, Turtle, Raccoondog, and Raven.
+- [Primal Shifter](base-classes/primal-shifter/index.md): a martial shapeshifter with Wolf, Feline, Bear, Turtle, Raccoondog, and Raven form progressions.
 
 ## Prestige Classes
 
@@ -40,3 +39,8 @@ Wizard, Sorcerer, Cleric, and Druid use the standard d20 full-caster spell-level
 10th-level spells are reserved for epic magic. Spell slots or point budgets, spells known or prepared, casting attributes, and recovery are class-specific. Cantrips are minor at-will spells and do not use spell slots or Sorcery Points.
 
 Base-class progression tables use the standard d20 columns for level, BAB, Fortitude, Reflex, Will, and class features. BAB includes iterative attacks when applicable; good and poor saves use the same progression as the Bodyguard table.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+</nav>

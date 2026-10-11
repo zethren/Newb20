@@ -1,6 +1,6 @@
 # Grapple, Thrash, and Throw
 
-This document outlines the unified, size-based grapple, thrash, and throwing mechanics designed for a pure-martial shifting Druid class/archetype and global game engine integration.
+These rules govern grappling, thrashing, and throwing creatures. Apply the shared [Combat Scaling](combat-scaling.md) rules when a maneuver or attack depends on Size.
 
 ---
 
@@ -76,6 +76,16 @@ Tossed creatures scale as heavy, blunt improvised weapons:
 
 | Victim Size Category | Base Blunt Projectile Damage |
 | :--- | :--- |
-| **Small** | $1\text{d}8 + \text{Str}$ |
-| **Medium** | $2\text{d}6 + \text{Str}$ |
-| **Large** | $3\text{d}6 + \text{Str}$ |
+| **Small** | `1d8 + Strength modifier` |
+| **Medium** | `2d6 + Strength modifier` |
+| **Large** | `3d6 + Strength modifier` |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+<a href="conditions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Conditions</a>
+<a href="flight.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Flight Rules</a>
+<a href="health.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Health, Dying, and Recovery</a>
+</nav>

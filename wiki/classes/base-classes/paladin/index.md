@@ -99,3 +99,9 @@ At 18th level, you are immune to compulsion effects. Allies within 10 feet gain 
 ### Holy Champion
 
 At 20th level, while smiting, you gain resistance 10 to damage dealt by evil creatures and your weapon attacks ignore all Damage Reduction of the target.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

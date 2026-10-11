@@ -31,7 +31,7 @@ The Bodyguard is a martial protector who designates a willing ally as a Protecte
 
 The save values use the common d20 good-save and poor-save progressions implied by the source's Fortitude/Will designation. Prestige classes use a 10-level progression. The Bodyguard gains features at levels 1, 2, 4, 6, 8, and 10; levels 3, 5, 7, and 9 intentionally grant no new class features.
 
-## Core Features
+## Class Features
 
 - [Guardian's Vow](abilities/guardians-vow.md)
 - [Warden's Shield](abilities/wardens-shield.md)
@@ -40,3 +40,9 @@ The save values use the common d20 good-save and poor-save progressions implied 
 - [Improved Vanguard Intercept](abilities/improved-vanguard-intercept.md)
 - [Twin Guardian's Vow](abilities/twin-guardians-vow.md)
 - [Greater Vanguard Intercept](abilities/greater-vanguard-intercept.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

@@ -46,7 +46,7 @@ At Fighter level 4, choose a specialization and gain its level-4 feature. Archer
 
 [Fighting Style](abilities/fighting-style.md), [Weapon Training](abilities/weapon-training.md), [Conditioning](abilities/conditioning.md), [Armor Mastery](abilities/armor-mastery.md), and [Master of Arms](abilities/master-of-arms.md) are now defined below under Class Abilities. A Bonus Combat Feat lets the Fighter select any feat tagged **(Combat Feat)** (see the [feat index](../../../feats.md#martial-feats)), even if the Fighter does not meet that feat's non-BAB prerequisites. The level-20 Combat Feat is a class-granted capstone choice, separate from any general character feat progression.
 
-## Core Features
+## Class Features
 
 - [Fighting Style](abilities/fighting-style.md)
 - [Weapon Training](abilities/weapon-training.md)
@@ -92,3 +92,9 @@ A mounted-combat specialist focused on riding, mounted attacks, and coordinating
 | 20 | [Master Cavalier](abilities/cavalier.md#master-cavalier) |
 
 Cavalier features apply while riding any mount that meets the shared mounted-combat requirements; the Cavalier does not gain a bonded mount. These features do not remove or reduce the universal mounted attack and AC penalties, which remain addressed by the mounted feats.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

@@ -21,4 +21,15 @@ The Wolf's main-hand attack is Bite; its off-hand attacks are Claw 1 and Claw 2.
 | Claw 1 (off hand) | Light claws | 1d4 + 0.5x STR | 1d6 + 0.5x STR | 1d8 + 0.5x STR |
 | Claw 2 (off hand) | Light claws | 1d4 + 0.5x STR | 1d6 + 0.5x STR | 1d8 + 0.5x STR |
 
-See the [Primal Shifter](../index.md) for class progression and [Shifting Talent](../abilities/shifting-talent.md) for form-tier unlocks.
+See [Shifting Talent](../abilities/shifting-talent.md) for form-tier unlocks.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Primal Shifter</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../../game-mechanics/combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+<a href="../abilities/snatch.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Snatch</a>
+<a href="../abilities/pack-tactics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Pack Tactics</a>
+<a href="../abilities/persistent-shifting.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Persistent Shifting</a>
+</nav>

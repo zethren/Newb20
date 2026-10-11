@@ -8,6 +8,10 @@
 
 [Resting](game-mechanics/resting.md) documents combat stamina accumulation and the rest periods used to clear Fatigue or Exhaustion.
 
-## Primal Shifter Features
-
-The [Primal Shifter](classes/base-classes/primal-shifter/index.md) specification includes Nature Sense, Woodland Stride, Swift Tracker, Trackless Step, and Hide in Plain Sight (Wilderness), which works only in the wilderness. Their detailed operational rules are limited to what is stated in that specification.
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="skills.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Skills</a>
+<a href="game-mechanics/resting.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">System Specification: Constitution-Scaled Combat Stamina</a>
+<a href="game-mechanics/scent.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Scent</a>
+</nav>

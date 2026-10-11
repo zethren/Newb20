@@ -22,3 +22,14 @@ The Bear's main-hand attack is Claw 1; its off-hand attacks are Claw 2 and Bite.
 | Bite (off hand) | Heavy attacks | 1d8 + 1.5x STR | 2d6 + 1.5x STR | 3d6 + 1.5x STR |
 
 See the [Primal Shifter](../index.md) for class progression and [Shifting Talent](../abilities/shifting-talent.md) for form-tier unlocks.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Primal Shifter</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../../game-mechanics/combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+<a href="../abilities/guardians-intercept.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Guardian&#x27;s Intercept</a>
+<a href="../abilities/bear-maneuvering-stance.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Bear&#x27;s Maneuvering Stance</a>
+<a href="../abilities/persistent-shifting.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Persistent Shifting</a>
+</nav>

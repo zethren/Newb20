@@ -96,7 +96,15 @@ Activating a spell scroll or wand follows the [Use Magic Device rules](skills/us
 Routine spellcasting does not require a Concentration check. A specific disruption may require one; its rule sets the DC. Unless stated otherwise, failure causes the spell to fail and its spell slot to be expended. See [Concentration](skills/concentration.md).
 
 - [Transformation Rules](game-mechanics/transformations.md) distinguishes ordinary Polymorph effects, which meld worn and carried items, from Baleful Polymorph and transformative curses, which follow the Shifter item rule.
-- While mounted, casting a spell with somatic or verbal components requires a Concentration check at DC $15 +$ spell level. See [Mounted Combat](game-mechanics/mounted-combat.md).
-- Entangled characters require a Concentration check at DC $15 +$ spell level to cast any spell. See [Conditions](game-mechanics/conditions.md).
+- While mounted, casting a spell with somatic or verbal components requires a Concentration check against `DC = 15 + spell level`. See [Mounted Combat](game-mechanics/mounted-combat.md).
+- Entangled characters require a Concentration check against `DC = 15 + spell level` to cast any spell. See [Conditions](game-mechanics/conditions.md).
 - Casting under threat can provoke Attacks of Opportunity and require Concentration checks; see [Casting in Combat](#casting-in-combat).
 - The Bodyguard's damage-interception feature applies to damage from spells, subject to its adjacency and area-effect rules. See [Bodyguard](classes/prestige-classes/bodyguard/index.md).
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="spell-lists/cleric.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Cleric Spell List</a>
+<a href="classes/index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+</nav>

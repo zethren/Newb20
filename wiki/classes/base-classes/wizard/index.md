@@ -230,3 +230,9 @@ The Familiar is a bound fae creature that takes the form of a small animal. It g
 The Wizard can cast spells through the Familiar, using the Familiar as the spell's point of origin. These spells use the Wizard's actions, not the Familiar's; a spell that takes a Full-Round Action consumes the Wizard's Standard and Move Actions.
 
 If the Familiar dies, the Wizard must resummon it through a 24-hour ritual. The ritual time can be accumulated across multiple sittings. The Wizard suffers **4 points of permanent Constitution damage** when the Familiar dies. This damage recovers through Long Rests, with possible additional recovery from [Long-Term Care](../../../skills/heal.md), as described in the [health recovery rules](../../../game-mechanics/health.md).
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

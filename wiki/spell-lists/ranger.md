@@ -45,3 +45,14 @@ Ranger spells sharpen the hunt, aid travel through the wild, and let a hunter wo
 | [Seasoned Tracker](../spells/ranger/seasoned-tracker.md) | Divination | Locate a known creature by its trail |
 | [Thornwake](../spells/ranger/thornwake.md) | Transmutation | Thorns erupt across a 20-foot-radius area of ground you can see. A creature that enters the area for the first time on a turn or starts its turn there takes 4d6 piercing damage (Dexterity save for half). The area is difficult terrain. The thorns do not harm you or creatures you designate when casting the spell. |
 | [Unseen Lodge](../spells/ranger/unseen-lodge.md) | Conjuration | Make a concealed shelter for a traveling band |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+<a href="../spells/ranger/beast-tongue.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Beast Tongue</a>
+<a href="../spells/ranger/briarstep.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Briarstep</a>
+<a href="../spells/ranger/cinderless-camp.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Cinderless Camp</a>
+<a href="../spells/ranger/hunters-scent.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Hunter&#x27;s Scent</a>
+<a href="../spells/ranger/snaremark.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Snaremark</a>
+</nav>

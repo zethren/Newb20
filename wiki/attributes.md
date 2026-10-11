@@ -1,17 +1,6 @@
 # Attributes
 
-The game uses six attributes. Starting scores use the 20-point-buy method below.
-
-| Attribute | Documented interactions |
-| --- | --- |
-| Strength (STR) | Shifter form adjustments; natural-weapon damage; grapple-related damage; [Intimidating Presence](feats/intimidating-presence.md); several feat and maneuver effects. See [Primal Shifter](classes/base-classes/primal-shifter/index.md), [Grapple and Throw Rules](game-mechanics/grapple-and-throw.md), and [Animal Feats](feats/animal-feats.md). |
-| Dexterity (DEX) | Shifter form adjustments, AC, attack prerequisites, and conditions that remove or penalize Dexterity. See [Primal Shifter](classes/base-classes/primal-shifter/index.md), [Conditions](game-mechanics/conditions.md), and [Mounted Combat](game-mechanics/mounted-combat.md). |
-| Constitution (CON) | Bear form adjustments and the combat-round thresholds for Fatigue and Exhaustion. See [Primal Shifter](classes/base-classes/primal-shifter/index.md) and [Resting](game-mechanics/resting.md). |
-| Intelligence (INT) | No mechanical interactions are specified in the current rules. |
-| Wisdom (WIS) | Ability modifier in the Wolf's Alpha's Howl save DC and the Monk's AC, ki pool, and Ki Strike save DC. See [Primal Shifter](classes/base-classes/primal-shifter/index.md) and [Monk](classes/base-classes/monk/index.md). |
-| Charisma (CHA) | The Paladin's Divine Grace, Lay on Hands, and Smite Evil. See [Paladin](classes/base-classes/paladin/index.md). |
-
-The [Primal Shifter specification](classes/base-classes/primal-shifter/index.md) also contains a global size-adjustment table. Size adjustments are not attribute-generation rules.
+The game uses six attributes. Each rule or character option specifies which attribute it uses. Starting scores use the 20-point-buy method below.
 
 ## Starting Ability Scores
 
@@ -66,3 +55,11 @@ For ability scores, add bonuses to the base score before calculating the modifie
 | Supernatural | Effects explicitly granting a Supernatural bonus; use this type when a rule labels a bonus Supernatural. | Yes. | Supernatural bonuses stack with one another and with other types. |
 
 An effect may name a bonus type that differs from its source: for example, a spell can grant an Enhancement bonus. New effects should state their bonus type; if an existing effect does not, treat its bonus as Supernatural unless its source is already defined as another type here. For AC, the **AC component** identifies where the modifier applies, while its **bonus type** determines stacking; see [Armor Class Components](game-mechanics/armor-class.md). Dodge AC, Armor AC, Shield AC, and similar components are not bonus types. Do not add a separate Size bonus to a skill check when its effect is already included in the relevant ability modifier.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="skills.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Skills</a>
+<a href="game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="game-mechanics/combat-scaling.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
+</nav>

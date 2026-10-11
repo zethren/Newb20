@@ -50,3 +50,12 @@ You can apply Hunter's Mark to a creature whose tracks you can follow even if yo
 Once per turn, when you hit your marked target with a weapon attack while it is unaware of you or Flat-Footed, deal an additional 3d6 damage. This replaces, and does not stack with, the extra damage from Ambush.
 
 **Related:** [Ranger](../index.md) · [Hunter's Mark](../index.md#hunters-mark) · [Hide in Plain Sight (Wilderness)](../index.md#hide-in-plain-sight-wilderness)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Ranger</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="beastmaster.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Beastmaster</a>
+<a href="trapper.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Trapper</a>
+</nav>

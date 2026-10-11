@@ -208,3 +208,14 @@ Each spell links to its individual rules page. Spell save DCs follow the shared 
 | [Life's Deep Current](../spells/druid/lifes-deep-current.md) | Necromancy | Up to ten creatures regain 1d8 per 2 caster levels (round up) hit points; undead make Constitution saves or take the same amount as corrupt damage, half on success. |
 | [Reshape the Living Land](../spells/druid/reshape-the-living-land.md) | Transmutation | Alter up to ten 20-foot cubes of natural earth, stone, or vegetation into a stable terrain feature; the change is... |
 | [Beast Shape VI](../spells/druid/beast-shape-vi.md) | Transmutation | You and up to nine willing creatures assume animal or magical-beast forms as Beast Shape IV for 1 hour/CL, applying each form's Size AC adjustment and Natural Armor bonus to Natural Armor AC. |
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../spells.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Spells</a>
+<a href="../spells/druid/barkskin-aegis.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Barkskin Aegis</a>
+<a href="../spells/druid/rootbound-guard.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Rootbound Guard</a>
+<a href="../spells/druid/beast-call-i.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Beast Call I</a>
+<a href="../spells/druid/bramble-snare.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Bramble Snare</a>
+<a href="../spells/druid/scent-of-rain.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Scent of Rain</a>
+</nav>

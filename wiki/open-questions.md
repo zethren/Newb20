@@ -6,20 +6,16 @@ This document tracks unresolved rules, conflicts, and playtesting decisions. Res
 
 - Define the character-creation order for base ability scores, ancestry modifiers, class features, forms, and later advancement.
 - Define when ability-score advancement occurs and how those increases are applied.
-- Decide how to allocate the Human ancestry's remaining 1 RP and resolve its Skilled trait cost and Class Skill bonus.
 - Name Elf subraces and resolve their ability adjustments, the proposed Constitution adjustment, and Enchantment Defense.
-- Complete the Kitsune ancestry: shifting between fox, hybrid, and human forms; tail progression to nine tails at level 20; spirit magic and spell-recall limits; and its final ancestry cost.
-- Set the Human Skilled RP cost to 1 and grant its +1 Class Skill bonus; add a selectable +1 bonus to one saving throw for 1 RP.
-- Finalize ancestry RP prices and rebalance Hengeyokai's RP budget and the Shifter Talent feat, including whether its bonus applies only in natural animal form.
-- Define the Hengeyokai shared-form and animal-type package costs; review Tengu Poor Flight against the shared flight penalties.
-- Confirm the Hengeyokai form-change action cost, whether changing form can be interrupted, and how equipment behaves in animal form.
-- Compare Turtle, Raccoondog, and Raven Shifter forms with Wolf, Feline, and Bear; review Aasimar and Tiefling 10-RP combinations.
-- Review ancestry trait costs and interactions: the scaling value of Human's bonus feat and skill rank; Elf's four-hour Long Rest and weapon familiarity; Dwarf poison immunity and movement; Half-Orc scent; Halfling size and luck; Half-Elf's overlapping bonuses; Gnome illusion traits; and the weapon-familiarity cost split.
+- Complete the remaining Kitsune details: shifting between fox, hybrid, and humanoid forms; form-change action and equipment rules; spirit magic; and spell-recall limits.
+- Review Tengu Poor Flight against the shared flight penalties.
+- Confirm the Hengeyokai form-change action cost and whether changing form can be interrupted.
+- Compare Turtle, Raccoondog, and Raven form mechanics with Wolf, Feline, and Bear.
+- Review the scaling value and interactions of ancestry traits.
 - Review the Hengeyokai Shifter Talent feat's restriction to use in natural animal form.
 - Define Spell Recall's maximum spell level, interaction with Sorcery Points, and balance with other spell-recovery effects.
-- Confirm Hengeyokai shifting action and equipment rules, and resolve remaining tail/wing feat interactions.
+- Resolve remaining tail and wing feat interactions.
 - Review transformed ability-score totals and define mechanical uses for Intelligence and Charisma.
-- Define the character-creation sequence.
 
 ## Classes
 
@@ -56,7 +52,7 @@ This document tracks unresolved rules, conflicts, and playtesting decisions. Res
 - Define Lore (Arcana) checks for identifying spells and the interaction of Will saves and True Seeing with Wizard Illusion features.
 - Define maximum HP and baseline HP recovery during a Short or Long Rest.
 
-## Combat and Shared Rules
+## Combat Rules
 
 - Define or remove the Swallow Whole prerequisite Improved Grapple; it currently has no rules page.
 - Define ordinary Attack Bonus (AB) and distinguish AB from Base Attack Bonus (BAB) and Martial Ability Bonus (MAB).
@@ -86,3 +82,10 @@ This document tracks unresolved rules, conflicts, and playtesting decisions. Res
 - Define magic-item creation costs, time, and checks. Playtest the proposed magic-item EP capacities, material modifiers, and enchantment costs across the weapon, armor, ring, clothing, boot, amulet, glove, and helmet tables. Define additional Legendary powers and Wizard Enchant Item's minor effects, activation, use limit, and interaction with permanent enchantments.
 - Establish minimum market values for items eligible for Minor Alchemy.
 - Define travel pace, foraging, weather, overland navigation, and general stealth rules.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="race-points.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Ancestry Balance</a>
+<a href="classes/index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

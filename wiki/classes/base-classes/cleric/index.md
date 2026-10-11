@@ -40,7 +40,7 @@ Clerics are divine spellcasters who serve a deity, sacred cause, or spiritual tr
 | 19 | +14 / +9 / +4 | +11 | +9 | +11 | - |
 | 20 | +15 / +10 / +5 | +12 | +9 | +12 | - |
 
-## Core Features
+## Class Features
 
 ### Spellcasting
 
@@ -59,3 +59,9 @@ The damage type is positive for a Cleric whose alignment is Good, and negative e
 ## Divine Domains
 
 Choose two different domains at level 1. You must meet each domain's alignment requirement. Each domain grants one power at level 1 and another at level 8. Each activated domain power can be used once per Short Rest, with its uses tracked independently. See [Cleric Domains](domains.md) for the domain categories, eligibility, and powers.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+</nav>

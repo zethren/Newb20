@@ -18,3 +18,13 @@ At 3rd, 6th, 11th, and 16th level, the Fighter chooses a Weapon Training group a
 A Weapon Training group is a mechanical attack-and-damage grouping. It is distinct from an ancestry's weapon-familiarity group (see [Races](../../../../races.md)), and the two do not interact.
 
 **Related:** [Fighter](../index.md) · [Fighting Style](fighting-style.md) · [Master of Arms](master-of-arms.md)
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Fighter</a>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../../races.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Playable Races</a>
+<a href="fighting-style.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Fighting Style</a>
+<a href="master-of-arms.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Master of Arms</a>
+</nav>

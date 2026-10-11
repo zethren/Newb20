@@ -1,10 +1,10 @@
 # Combat Scaling
 
-This page contains shared size and natural-weapon rules. Class-form adjustments are separate and remain on the relevant class and form pages.
+This page contains the size and natural-weapon rules used throughout the handbook.
 
 ## Size Modifiers
 
-Apply these global modifiers for a creature's current size, whether it is natural or caused by an effect. Class-form adjustments are separate and are added to these values.
+Apply these modifiers for a creature's current size, whether it is natural or caused by an effect. An effect may specify additional adjustments.
 
 | Size | Steps from Medium | Attack and AC | MAB and MAD | Strength | Dexterity | Constitution | Stealth | Reach | Base land speed | 5-ft square sharing |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
@@ -85,4 +85,14 @@ Stomach capacity uses a base Medium victim mass of 1.0 unit. The [Swallow Whole 
 | Gargantuan | 4.0 | 8.00 | 1 Large (2.0) + 2 Medium (2.0), or 4 Medium victims. |
 | Colossal | 8.0 | 16.00 | 1 Gargantuan (8.0), or 2 Large + 4 Medium victims. |
 
-See [Primal Shifter](../classes/base-classes/primal-shifter/index.md) and its [form profiles](../classes/index.md) for class-specific weapon slots and damage progressions.
+Form profiles specify their natural attacks and Medium base damage; use the shared rules above to determine their properties and adjust damage by Size.
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="../game-mechanics.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Mechanics</a>
+<a href="mounted-combat.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Mounted Combat</a>
+<a href="../feats/swallow-whole.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Swallow Whole</a>
+<a href="armor-class.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Armor Class Components</a>
+<a href="conditions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Conditions</a>
+</nav>

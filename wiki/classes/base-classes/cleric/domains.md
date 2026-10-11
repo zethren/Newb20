@@ -82,3 +82,12 @@ Alignment categories refer to either axis of a character's alignment:
 - **Crushing Authority (Level 8):** As a Standard Action, choose one creature within 30 feet that can hear you. It must succeed at a Will save or be unable to take Reactions and take a **-2 Circumstance penalty on attack rolls** until the start of your next turn.
 
 Channel Divinity's energy type follows the Cleric's alignment on the good-evil axis; see [Cleric](index.md#channel-divinity).
+
+<nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
+<span style="font-weight:600;align-self:center;">Related:</span>
+<a href="../../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Game Reference</a>
+<a href="index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Cleric</a>
+<a href="../../index.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
+<a href="../../../game-mechanics/animal-companions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Animal Companions</a>
+<a href="../../../game-mechanics/conditions.md" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Conditions</a>
+</nav>
