@@ -8,9 +8,7 @@
 
 ## Healing
 
-Healing cannot raise a creature above its maximum HP. The maximum HP calculation and general recovery rules remain to be defined.
-
-A Long Rest restores some amount of permanent ability damage. Long-Term Care can increase this recovery based on the Heal check result. The base amount restored and the additional recovery granted by Long-Term Care remain to be defined; see [Heal](../skills/heal.md).
+Healing cannot raise a creature above its maximum HP.
 
 ## Stabilizing
 

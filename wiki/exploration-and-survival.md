@@ -10,6 +10,4 @@
 
 ## Primal Shifter Features
 
-The [Primal Shifter](classes/primal-shifter.md) specification includes Nature Sense, Woodland Stride, Swift Tracker, Trackless Step, and Hide in Plain Sight. Their detailed operational rules are limited to what is stated in that specification.
-
-Travel pace, foraging, weather, overland navigation, and general stealth rules are not yet documented.
+The [Primal Shifter](classes/base-classes/primal-shifter/index.md) specification includes Nature Sense, Woodland Stride, Swift Tracker, Trackless Step, and Hide in Plain Sight (Wilderness), which works only in the wilderness. Their detailed operational rules are limited to what is stated in that specification.

@@ -6,7 +6,7 @@ Heal covers diagnosis, first aid, tending wounds, and recognizing common signs o
 
 ## Diagnosis and Treatment
 
-Heal can diagnose and treat poisons and diseases. It can also remove specific conditions that impair movement, such as injuries caused by caltrops; it does not automatically remove every condition that reduces speed. The eligible poisons, diseases, and conditions, along with their DCs and treatment outcomes, remain to be defined.
+Heal can diagnose and treat poisons and diseases. It can also remove specific conditions that impair movement, such as injuries caused by caltrops; it does not automatically remove every condition that reduces speed.
 
 ## Short-Term Care
 
@@ -16,9 +16,7 @@ On a successful check, the patient regains **1 HP plus 1 HP for each point by wh
 
 ## Long-Term Care
 
-Long-term care takes up to **1 minute** and requires a **healing kit**. Another character may perform it for the patient. Multiple care attempts can be made for the same patient before a **Short Rest**, including at different times. Use the highest successful Heal check result for that rest; a higher result replaces a lower one, and care attempts do not stack. The retained check adds **1 HP plus 1 HP for each point by which it exceeds the DC** to the patient's normal HP recovery during the Short Rest. This added healing cannot exceed maximum HP. The DC remains to be defined.
-
-Long-Term Care can also increase the permanent ability damage recovered during a Long Rest, based on the Heal check result. The additional amount and check DC remain to be defined. See [Health, Dying, and Recovery](../game-mechanics/health.md) for the base Long Rest recovery rule.
+Long-term care takes up to **1 minute** and requires a **healing kit**. Another character may perform it for the patient. Multiple care attempts can be made for the same patient before a **Short Rest**, including at different times. Use the highest successful Heal check result for that rest; a higher result replaces a lower one, and care attempts do not stack. The retained check adds **1 HP plus 1 HP for each point by which it exceeds the DC** to the patient's normal HP recovery during the Short Rest. This added healing cannot exceed maximum HP. See [Health, Dying, and Recovery](../game-mechanics/health.md) for Long Rest recovery.
 
 ## Healing Kits
 
@@ -31,7 +29,3 @@ A healing kit is required for Short-Term and Long-Term Care. Apply one **Circums
 | High-quality kit, salve, or herbal remedy | +5 |
 
 The modifier comes from the supplies used for that treatment; multiple kits or remedies do not combine into additional modifiers.
-
-## Synergy
-
-No cross-skill synergy is proposed yet; treatment procedures need to be defined before setting a meaningful link.

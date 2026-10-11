@@ -1,13 +1,14 @@
 # Game Reference
 
-This is the navigation page for the game's rules and character options. Topic subpages contain the full mechanics, grouped for wiki or GitHub Pages use.
+This handbook contains the current rules for character options, combat, equipment, spells, skills, and exploration. Use the topic pages below for detailed rules.
 
 ## Character
 
 - [Races](races.md)
-- [Classes](classes.md)
+- [Classes](classes/index.md)
 - [Skills](skills.md)
 - [Attributes](attributes.md)
+- [Alignment](alignment.md)
 - [Feats](feats.md)
 - [Class Abilities](feats.md#class-features)
 
@@ -18,11 +19,3 @@ This is the navigation page for the game's rules and character options. Topic su
 - [Equipment](equipment.md)
 - [Spells](spells.md)
 - [Exploration and Survival](exploration-and-survival.md)
-
-## Editorial
-
-- [Open Questions](open-questions.md): rule conflicts and incomplete areas to settle before publication.
-
-## Documentation Status
-
-The current rules document one base class concept, one prestige class, several combat options, and a selection of shared rules. They do not yet define a race roster, spell catalog, complete skill system, character-generation rules, or a general attribute reference. Those pages identify the gaps without supplying unwritten mechanics.

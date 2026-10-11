@@ -2,7 +2,7 @@
 
 **Key ability:** Charisma
 
-Perform covers presenting an artistic or entertaining performance before an audience. Specific performance forms and their effects remain to be defined.
+Perform covers presenting an artistic or entertaining performance before an audience.
 
 ## Synergy
 

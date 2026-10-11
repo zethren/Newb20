@@ -42,14 +42,16 @@ A 5-ft grid square can contain up to two creatures without a crowding penalty if
 - For game purposes, weight scales by a factor of 3 per size step: `3^(Steps from Medium)`. This is a size-category abstraction rather than an exact doubling or halving of every linear dimension. Apply the weight factor to the creature and all carried items for encumbrance and when another creature carries or lifts them.
 - Ration requirements scale by a factor of 2 per size step: `2^(Steps from Medium)`.
 - A mount must be at least one size category larger than its rider; therefore, a Small rider can ride a Medium or larger mount. See [Mounted Combat](mounted-combat.md).
-- Smaller creatures can fit into spaces too small for larger creatures and are easier for allies to carry or assist. Exact clearance and assistance rules remain to be defined. The Stealth benefit is represented by the Size modifier above.
+- Smaller creatures can fit into spaces too small for larger creatures and are easier for allies to carry or assist. The Stealth benefit is represented by the Size modifier above.
 
 ## Natural Weapon Properties
 
 - Natural weapon attacks have a 19-20 / x2 critical threat profile.
 - If an attack lists multiple physical damage types, it counts as all of those types simultaneously. The types do not multiply damage; they determine which damage-reduction rules the attack can bypass.
-- A bite is treated as a two-handed weapon, adds 1.5 times the Strength modifier to damage, and deals bludgeoning, piercing, and slashing damage.
+- A bite is treated as a two-handed weapon, adds 1.5 times the Strength modifier to damage, and deals blunt, piercing, and slashing damage.
 - A claw is treated as a light, Weapon Finesse-compatible weapon and deals piercing and slashing damage. It adds the full Strength modifier in the main-hand slot and half the Strength modifier in an off-hand slot.
+
+See [Damage Types](../game-mechanics.md#damage-types) for the standard type names and their effects.
 
 ## Weapon Damage by Size
 
@@ -72,7 +74,7 @@ The listed rows cover the normal d20 weapon damage values. Damage for smaller-th
 
 ## Swallow Whole Capacity
 
-Stomach capacity uses a base Medium victim mass of 1.0 unit. The [Swallow Whole feat](../feats/animal-feats.md) uses this matrix to limit the size and number of contained creatures.
+Stomach capacity uses a base Medium victim mass of 1.0 unit. The [Swallow Whole feat](../feats/swallow-whole.md) uses this matrix to limit the size and number of contained creatures.
 
 | Creature size | Predator volume capacity | Victim mass | Maximum containment examples |
 | --- | ---: | ---: | --- |
@@ -83,4 +85,4 @@ Stomach capacity uses a base Medium victim mass of 1.0 unit. The [Swallow Whole 
 | Gargantuan | 4.0 | 8.00 | 1 Large (2.0) + 2 Medium (2.0), or 4 Medium victims. |
 | Colossal | 8.0 | 16.00 | 1 Gargantuan (8.0), or 2 Large + 4 Medium victims. |
 
-See [Primal Shifter](../classes/primal-shifter.md) and its [form profiles](../classes.md) for class-specific weapon slots and damage progressions.
+See [Primal Shifter](../classes/base-classes/primal-shifter/index.md) and its [form profiles](../classes/index.md) for class-specific weapon slots and damage progressions.

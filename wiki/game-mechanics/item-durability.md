@@ -17,5 +17,5 @@ When a weapon (mundane or magical) is reduced to or below 50% of its maximum str
 ### Broken Armor & Shields
 When a defensive protective item is reduced to or below 50% of its maximum structural Hit Points, its plating buckles or its supportive straps snap:
 * **The Defense Tax:** The static Armor Class (AC) or Shield bonus granted to the wearer is immediately cut in **half** (rounded down).
-* **Magical Suppression:** All magical enhancement bonuses (+1 to +5) and special armor properties (e.g., *Fortification*, *Energy Resistance*) are completely suppressed and deactivated while the armor remains broken.
+* **Magical Suppression:** All magical Enhancement bonuses and special armor properties (e.g., *Fortification*, *Energy Resistance*) are completely suppressed and deactivated while the armor remains broken.
 * **The Encumbrance Tax:** The item's native Armor Check Penalty is doubled.

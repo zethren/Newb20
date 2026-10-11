@@ -9,7 +9,7 @@ Each creature's Scent trait specifies its range. Both passive detection and acti
 * **Mechanical Protection:** The tracking creature natively retains their full Dexterity bonus to Armor Class (AC) and **cannot be caught Flat-Footed** or subjected to precision/sneak attack modifiers by that specific unseen attacker, effectively breaking the ambush state.
 
 ## 2. Active Tracking Loop (Sniff)
-* **Action Cost:** **Move Action**. A Primal Shifter with [Swift Tracker](../classes/abilities/shifter/swift-tracker.md) can instead use a **Free Action**.
+* **Action Cost:** **Move Action**. A Primal Shifter with [Swift Tracker](../classes/base-classes/primal-shifter/abilities/swift-tracker.md) can instead use a **Free Action**.
 * **Range Requirement:** The target must be within the creature's listed Scent range. The check is still required at point-blank / adjacent (5 feet); no automatic square flagging is permitted.
 * **Resolution Check:** A contested **Survival Skill Check vs. Target's Survival Skill Check** (representing the target's active wilderness capability to mask their biological footprint via masking agents, wind angles, or water crossings).
 * **Success State:** The engine flags the exact 5-foot map grid square that the hidden or invisible target occupies.

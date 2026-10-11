@@ -1,0 +1,18 @@
+# Fading Season
+
+| Spell detail | Value |
+| --- | --- |
+| Level | 5 |
+| School | Necromancy |
+| Class | Druid |
+| Casting time | Standard Action |
+| Range | 60 feet |
+| Components | V, S, M (a leaf or seed, not consumed) |
+| Duration | Instantaneous |
+| Spell attack | None |
+| Saving throw | Constitution half |
+| Spell resistance | Yes |
+
+## Effect
+
+One creature makes a Constitution save, taking 1d6 corrupt damage per caster level on a failure or half on a success; on a failed save it also cannot regain hit points until your next turn.

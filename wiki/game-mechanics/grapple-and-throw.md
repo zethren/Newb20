@@ -1,4 +1,4 @@
-# Core Grapple, Thrash, and Throw System Documentation
+# Grapple, Thrash, and Throw
 
 This document outlines the unified, size-based grapple, thrash, and throwing mechanics designed for a pure-martial shifting Druid class/archetype and global game engine integration.
 

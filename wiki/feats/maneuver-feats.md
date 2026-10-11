@@ -4,36 +4,24 @@ These feats improve specific martial maneuvers. Unless a feat states otherwise, 
 
 ## Improved Trip
 
-You have learned to trip opponents without leaving yourself open to a counterattack.
-
-* **Benefit:** Trip attempts do not provoke an Attack of Opportunity. You gain a **+2 MAB bonus** on Trip checks.
+See [Improved Trip](improved-trip.md).
 
 ## Improved Bull Rush
 
-You have learned to drive opponents back without leaving yourself open to a counterattack.
-
-* **Benefit:** Bull Rush attempts do not provoke an Attack of Opportunity. You gain a **+2 MAB bonus** on Bull Rush checks.
+See [Improved Bull Rush](improved-bull-rush.md).
 
 ## Improved Overrun
 
-You have learned to move through opponents without leaving yourself open to a counterattack.
-
-* **Benefit:** Overrun attempts do not provoke an Attack of Opportunity. You gain a **+2 MAB bonus** on Overrun checks.
+See [Improved Overrun](improved-overrun.md).
 
 ## Improved Drag
 
-You have learned to reposition a held opponent without leaving yourself open to a counterattack.
-
-* **Benefit:** Drag attempts do not provoke an Attack of Opportunity. You gain a **+2 MAB bonus** on Drag checks.
+See [Improved Drag](improved-drag.md).
 
 ## Improved Reposition
 
-You have learned to maneuver opponents without leaving yourself open to a counterattack.
-
-* **Benefit:** Reposition attempts do not provoke an Attack of Opportunity. You gain a **+2 MAB bonus** on Reposition checks.
+See [Improved Reposition](improved-reposition.md).
 
 ## Improved Pin
 
-You have learned to secure a hold without leaving yourself open to a counterattack.
-
-* **Benefit:** Pin attempts do not provoke an Attack of Opportunity. You gain a **+2 MAB bonus** on Pin checks.
+See [Improved Pin](improved-pin.md).

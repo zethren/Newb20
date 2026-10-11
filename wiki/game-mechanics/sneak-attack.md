@@ -1,19 +1,14 @@
-# System Specification: Global Limitation on Precision and Sneak Attack (Revised)
+# Sneak Attack
 
-To preserve a distinct mechanical boundary between combat-focused martial classes and utility-focused skill classes, the execution of precision damage is split into independent Damage and Status tracking loops.
+Sneak Attack adds precision damage to qualifying attacks and can trigger effects from Rogue Talents.
 
-## 1. Universal Primary Weapon Restriction (Raw Damage)
-*   **The Damage Law:** Sneak Attack damage dice can **only be evaluated and added to attack rolls executed using a character's designated Primary Weapon slot.**
-*   **Secondary Slot Suppression:** Any attack rolls executed using an Off-Hand weapon slot, a secondary natural weapon slot, or an automated bonus strike trigger (such as the *Rend* feat) **deal 0 bonus precision damage dice**. These strikes resolve utilizing baseline weapon dice and static attributes only.
+## 1. Sneak Attack Eligibility
+* A successful attack against a target that is **Flanked** or **Flat-Footed** qualifies for Sneak Attack.
+* A character adds their Sneak Attack damage to every qualifying hit made with their designated **Primary Weapon**. This includes iterative attacks.
+* A qualifying hit made with a secondary or off-hand weapon can trigger effects from Rogue strike talents if it deals at least 1 damage after Damage Reduction, but does not deal Sneak Attack damage dice.
 
-## 2. Universal Off-Hand Retention (Utility & Debuff Triggers)
-*   **The Exception Clause:** While secondary and off-hand strikes are completely stripped of raw precision damage dice, they **fully retain the ability to check for Sneak Attack positioning conditions (Flanked / Flat-Footed) to deliver conditional class talents.**
-*   **The Status Loop:** If an off-hand or secondary natural weapon strike successfully hits an eligible target, it triggers all associated riders, modifications, and debilitations exactly as if precision damage had landed. This includes, but is not limited to:
-    *   *Crippling Strike:* Inflicts attribute damage (e.g., -2 Strength).
-    *   *Bleeding Attack:* Inflicts ongoing bleed damage tracking conditions.
-    *   *Sickening Sneak:* Inflicts the system's **Sickened** status condition.
+## 2. Primary Weapon Restriction
+Sneak Attack damage dice apply only to attacks made with the character's designated Primary Weapon. Off-hand attacks, secondary natural attacks, and automated bonus strikes such as *Rend* do not add Sneak Attack damage dice.
 
-## 3. Systemic Operational Summary
-This split framework transforms the tactical execution of multi-attack archetypes across your engine:
-1.  **The Rogue (The Utility Saboteur):** A dual-wielding Rogue’s off-hand strikes no longer generate broken, encounter-trivializing damage spikes. Instead, they act as highly targeted delivery vectors for debilitating status conditions, maintaining the Rogue's identity as a high-utility combat tactician.
-2.  **The Feline Shifter (The Apex Burst Predator):** Natively capitalizes on their high-BAB track to land maximum raw damage triggers on their primary weapon chain, while their secondary natural attacks focus on critical-hit generation and physical tearing mechanics.
+## 3. Secondary Attack Talents
+Secondary and off-hand attacks can still check whether the target is Flanked or Flat-Footed and apply the effects of Rogue strike talents that trigger on a qualifying hit, provided the attack deals at least 1 damage after Damage Reduction. For example, [Crippling Strike and Bleeding Strike](../classes/base-classes/rogue/talents.md#debilitating-strike-talents) can apply their effects without adding Sneak Attack damage dice.

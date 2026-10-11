@@ -1,10 +1,10 @@
-# System Reference Document: Master Conditions List
+# Conditions
 
-This document houses the definitive operational rules, action restrictions, and mathematical taxes applied to characters under specific status conditions. 
+Conditions describe effects that change a creature's actions, defenses, or capabilities.
 
 ---
 
-## 1. The Three Grapple Condition Gates (Physical Containment)
+## Grapple Conditions
 
 ### Grappled
 The initial capture state. Both the initiator and the target are locked in close-quarters wrestling.
@@ -28,7 +28,7 @@ The target is completely bound, hog-tied, or physically locked in an inescapable
 
 ---
 
-## 2. Physical & Positional Conditions
+## Physical and Positional Conditions
 
 ### Prone
 The character is knocked flat on the ground or underwater floor.
@@ -56,7 +56,13 @@ The character is completely physically spent.
 
 ---
 
-## 3. Action-Inhibiting & Cognitive Conditions
+## Action-Inhibiting and Cognitive Conditions
+
+### Berserk
+The creature has lost control to a violent compulsion.
+* **Action Compulsion:** On each of its turns, the creature must move toward and attack the nearest creature, regardless of whether that creature is friend or foe. It uses the shortest available route and makes an attack if it can reach a target; if it cannot, it continues moving toward the nearest creature.
+* **Control Loss:** The creature cannot choose a different target or take a different action while Berserk.
+* **Duration:** The effect that caused Berserk determines when it ends.
 
 ### Nauseated
 The character is experiencing severe physical trauma, stomach sickness, or chemical distress. **This status condition instantly overrides and forces a predator to regurgitate any swallowed targets.**
@@ -66,6 +72,11 @@ The character is experiencing severe physical trauma, stomach sickness, or chemi
 ### Sickened
 A minor threshold variant of nausea. The character is physically unwell but functional.
 * **Universal Tax:** The character suffers a flat **-2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks**.
+
+### Shaken
+The character is unnerved by fear or intimidation.
+* **Fear Tax:** The character suffers a **-2 penalty on attack rolls, saving throws, and skill checks**.
+* **Repeated Effects:** Multiple Shaken effects do not stack. Apply the longest remaining duration.
 
 ### Staggered
 The character is heavily dazed, critically wounded, or mechanically slowed.
@@ -88,7 +99,7 @@ The character is momentarily disoriented.
 
 ---
 
-## 4. Sensory Conditions
+## Sensory Conditions
 
 ### Blinded
 The character cannot see their surroundings due to darkness, magical curses, or ocular trauma.

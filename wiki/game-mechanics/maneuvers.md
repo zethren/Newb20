@@ -2,7 +2,7 @@
 
 ## General Maneuver Rules
 
-Unless a maneuver or feature states otherwise, attempting a martial maneuver provokes an **Attack of Opportunity** from its target. This Attack of Opportunity is a Reaction and counts against the target's one-Reaction limit. If the target has a Reaction available, it may make the attack before the maneuver check. If the attack hits the maneuvering character, the maneuver attempt fails; if it misses, or the target cannot or chooses not to take the Reaction, resolve the maneuver normally.
+Unless a maneuver or feature states otherwise, attempting a martial maneuver provokes an **Attack of Opportunity** from its target. This Attack of Opportunity is a Reaction and counts against the target's available Reactions. If the target has a Reaction available, it may make the attack before the maneuver check. If the attack hits the maneuvering character, the maneuver attempt fails; if it misses, or the target cannot or chooses not to take the Reaction, resolve the maneuver normally.
 
 An Improved feat for a maneuver prevents that maneuver from provoking an Attack of Opportunity and grants a **+2 MAB bonus** to checks for that maneuver. These benefits apply only to the maneuver named by the feat. Specific features may provide other exceptions.
 
@@ -16,7 +16,7 @@ After resolving any Attack of Opportunity, the initiator rolls `d20 + MAB` again
 
 **Defensive Modifier:** A target with more than two legs gains **+2 MAD for each leg beyond two** against Trip attempts.
 
-See [Improved Trip](../feats/maneuver-feats.md#improved-trip).
+See [Improved Trip](../feats/improved-trip.md).
 
 ## Bull Rush
 
@@ -30,7 +30,7 @@ If the target's Attack of Opportunity hits the initiator, the Bull Rush attempt 
 
 **Defensive Modifier:** A target with more than two legs gains **+2 MAD for each leg beyond two** against Bull Rush attempts.
 
-See [Improved Bull Rush](../feats/maneuver-feats.md#improved-bull-rush).
+See [Improved Bull Rush](../feats/improved-bull-rush.md).
 
 ## Overrun
 
@@ -44,9 +44,9 @@ If the target's Attack of Opportunity hits the initiator, the Overrun attempt fa
 
 **Defensive Modifier:** A target with more than two legs gains **+2 MAD for each leg beyond two** against Overrun attempts.
 
-Overrun is distinct from the [Trample feat](../feats/animal-feats.md#10-trample-combat), which has its own multi-target movement rules.
+Overrun is distinct from the [Trample feat](../feats/trample.md), which has its own multi-target movement rules.
 
-See [Improved Overrun](../feats/maneuver-feats.md#improved-overrun).
+See [Improved Overrun](../feats/improved-overrun.md).
 
 ## Drag
 
@@ -58,7 +58,7 @@ After resolving any Attack of Opportunity, roll `d20 + MAB` against the target's
 
 Because the target must be Grappled, it cannot make an Attack of Opportunity to interrupt this maneuver.
 
-See [Improved Drag](../feats/maneuver-feats.md#improved-drag).
+See [Improved Drag](../feats/improved-drag.md).
 
 ## Reposition
 
@@ -68,7 +68,7 @@ After resolving any Attack of Opportunity, roll `d20 + MAB` against the target's
 
 **Defensive Modifier:** A target with more than two legs gains **+2 MAD for each leg beyond two** against Reposition attempts.
 
-See [Improved Reposition](../feats/maneuver-feats.md#improved-reposition).
+See [Improved Reposition](../feats/improved-reposition.md).
 
 ## Pin
 
@@ -80,4 +80,4 @@ The target must already be Grappled. Roll `d20 + MAB` against the target's MAD. 
 
 Because a Grappled target cannot make Attacks of Opportunity, it cannot use one to interrupt a Pin attempt.
 
-See [Improved Pin](../feats/maneuver-feats.md#improved-pin).
+See [Improved Pin](../feats/improved-pin.md).

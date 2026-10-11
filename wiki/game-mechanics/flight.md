@@ -1,6 +1,6 @@
 # Flight Rules
 
-This is the shared rules section for flight. The Aasimar's [Poor Flight feat](../feats/aasimar-wing-feats.md#poor-flight) provides the limited flight described here. These rules are provisional pending a complete treatment of aerial movement and maneuverability.
+The Aasimar's [Poor Flight feat](../feats/poor-flight.md) provides the limited flight described here.
 
 ## Poor Flight
 
@@ -36,10 +36,3 @@ A creature with a Fly speed that is falling can use a Move Action to attempt a F
 | Heavy breeze | +3 |
 | Light storm | +5 |
 | Heavy storm | +10 |
-
-## Open Flight Details
-
-- Define the Fly speed interaction with movement, size, encumbrance, and forced movement.
-- Define hovering, minimum movement, and stalls.
-- Define collisions, landing details beyond falling damage and Prone, and other flight interruptions.
-- Review the provisional attack, Dodge AC, Stealth, Reflex, and spellcasting penalties against the completed combat rules.

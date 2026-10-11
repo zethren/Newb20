@@ -13,4 +13,6 @@
 | Bear (Bear) | Bear |
 | Tengu (Raven) | Raven |
 
-Kitsune are a separate spirit classification and do not qualify. The feat's benefit may need to be restricted to use while shifted into the Hengeyokai's natural animal form after balance review.
+Kitsune are a separate spirit classification and do not qualify.
+
+**Required for:** None.
