@@ -7,9 +7,9 @@ The Bear form is the Primal Shifter's guardian and tank profile. Its shifter mod
 | 1 | 1 | Medium | +0 | +0 | +2 | +3 | DR 1/-; Scent 30 ft. |
 | 2 | 4 | Large | +2 | -2 | +6 | +6 | DR 2/-; [Guardian's Intercept](../abilities/guardians-intercept.md) |
 | 3 | 8 | Large | +2 | -2 | +8 | +8 | DR 5/-; [Bear's Maneuvering Stance](../abilities/bear-maneuvering-stance.md) |
-| 4 | 12 | Large | +2 | -2 | +10 | +10 | [Persistent Shifting](../abilities/persistent-shifting.md) |
+| 4 | 12 | Large | +2 | -2 | +10 | +10 | - |
 | 5 | 16 | Huge | +4 | -4 | +12 | +12 | DR 10/-; [Demoralizing Roar](../abilities/demoralizing-roar.md) |
-| 6 | 20 | Huge | +4 | -4 | +16 | +16 | [Swift Shifting](../abilities/swift-shifting.md) |
+| 6 | 20 | Huge | +4 | -4 | +16 | +16 | [Terrifying Roar](../abilities/terrifying-roar.md) |
 
 ## Natural Attacks
 
@@ -31,5 +31,6 @@ See the [Primal Shifter](../index.md) for class progression and [Shifting Talent
 <a href="../../../../game-mechanics/combat-scaling.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
 <a href="../abilities/guardians-intercept.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Guardian&#x27;s Intercept</a>
 <a href="../abilities/bear-maneuvering-stance.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Bear&#x27;s Maneuvering Stance</a>
+<a href="../abilities/terrifying-roar.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Terrifying Roar</a>
 <a href="../abilities/persistent-shifting.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Persistent Shifting</a>
 </nav>

@@ -64,6 +64,16 @@ Unless an effect says otherwise, a creature provokes an Attack of Opportunity fr
 
 A single movement provokes no more than one Attack of Opportunity from the same enemy, even if the creature leaves more than one square that enemy threatens.
 
+### Movement After a Standard Action Attack
+
+A standard action attack ends the character's movement for the turn. Afterward, only a [Five-Foot Step](#five-foot-step) remains available. Features such as [Hit and Run](classes/base-classes/primal-shifter/abilities/hit-and-run.md) can allow movement actions after a standard action attack.
+
+### Five-Foot Step
+
+A Five-Foot Step is a Free Action. The character moves up to 5 feet without provoking Attacks of Opportunity.
+* **Exclusive Movement:** After taking a Five-Foot Step, the character cannot take any other action that applies movement that turn.
+* **Speed Cap:** The step cannot move the character's total movement for the turn past its base speed. A character with a 30-foot base speed that moved 25 feet and then attacked can take a Five-Foot Step. A character that moved 30 feet and then attacked cannot.
+
 ### Ranged Attacks in Melee
 
 Making a ranged weapon attack while within an enemy's reach provokes an Attack of Opportunity from that enemy if it can take one. Resolve the Attack of Opportunity before the ranged attack roll; being hit does not by itself interrupt the attack. [Point Blank Shot](feats/point-blank-shot.md) prevents this provocation when its target is within 30 feet.
@@ -91,7 +101,7 @@ Base land speed is determined by current size in the [Combat Scaling table](game
 
 ### Combat
 
-- [Conditions](game-mechanics/conditions.md)
+- [Conditions](game-mechanics/conditions.md): shared application rules, replacement progressions, and condition effects.
 - [Health, Dying, and Recovery](game-mechanics/health.md)
 - [Armor Class Components](game-mechanics/armor-class.md)
 - [Grapple, Thrash, and Throw](game-mechanics/grapple-and-throw.md)

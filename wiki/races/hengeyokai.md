@@ -5,28 +5,28 @@ Hengeyokai are spirit creatures with material bodies and animal identities. They
 ## Hengeyokai Traits
 
 - **Three Forms:** A Hengeyokai can assume its natural animal form, a hybrid form, or a humanoid form.
-- **Ability Bonus:** Choose one ability score at character creation and gain a +2 Racial bonus to it. This bonus applies in all three forms.
+- **Ability Bonus:** Gain a +2 Racial bonus to the ability score determined by your animal type, as listed below. This bonus applies in all three forms.
 - **Animal Anatomy:** A Hengeyokai cannot speak or manipulate objects with hands in natural animal form. Hybrid and humanoid forms can speak and use their hands.
 - **Equipment:** Form changes follow the shared [Transformation Rules](../game-mechanics/transformations.md#natural-shifters).
 
 | Form | Benefits |
 | --- | --- |
-| Humanoid | The chosen +2 ability bonus only. Animal-type traits, movement, senses, and natural attacks are suppressed. Appearance grants no other ancestry's mechanics. |
-| Hybrid | The chosen +2 ability bonus, natural attacks, and the partial sensory benefits listed below. No animal-form movement or non-sensory animal traits such as skill bonuses or natural armor. |
-| Natural animal | The chosen +2 ability bonus and the full animal-type package, including movement, senses, skill traits, natural armor if listed, and natural attacks. No additional Polymorph ability-score or natural-armor adjustments. |
+| Humanoid | The animal type's +2 ability bonus only. Animal-type traits, movement, senses, and natural attacks are suppressed. Appearance grants no other ancestry's mechanics. |
+| Hybrid | The animal type's +2 ability bonus, natural attacks, and the partial sensory benefits listed below. No animal-form movement or non-sensory animal traits such as skill bonuses or natural armor. |
+| Natural animal | The animal type's +2 ability bonus and the full animal-type package, including movement, senses, skill traits, natural armor if listed, and natural attacks. No additional Polymorph ability-score or natural-armor adjustments. |
 
 ## Animal Types
 
-The animal-type traits below apply in natural animal form. Humanoid form suppresses them; hybrid form gains only the partial sensory benefits and natural attacks listed below.
+The racial ability bonuses below apply in all three forms. The animal-type traits apply in natural animal form. Humanoid form suppresses those traits; hybrid form gains only the partial sensory benefits and natural attacks listed below.
 
-| Hengeyokai type | Animal type | Animal-type traits |
-| --- | --- | --- |
-| Wolf | Wolf | Scent with a 30-ft range for passive detection and active tracking; +2 Racial bonus to Perception checks relying on hearing |
-| Neko | Cat | Low-Light Vision; +2 Racial bonus to Acrobatics and Stealth |
-| Kappa | Turtle | +1 Natural Armor AC; +2 Racial bonus to Survival |
-| Tanuki | Raccoondog | Low-Light Vision; +2 Racial bonus to Disguise, Investigation, and Persuasion |
-| Bear | Bear | Scent with a 30-ft range; +2 Racial bonus to Intimidate |
-| Tengu | Raven | Low-Light Vision; +2 Racial bonus to sight-based Perception; Poor Flight, 20 ft. |
+| Hengeyokai type | Animal type | Racial ability bonus | Animal-type traits |
+| --- | --- | --- | --- |
+| Wolf | Wolf | +2 Strength | Scent with a 30-ft range for passive detection and active tracking; +2 Racial bonus to Perception checks relying on hearing |
+| Neko | Cat | +2 Dexterity | Low-Light Vision; +2 Racial bonus to Acrobatics and Stealth |
+| Kappa | Turtle | +2 Wisdom | +1 Natural Armor AC; +2 Racial bonus to Survival |
+| Tanuki | Raccoondog | +2 Charisma | Low-Light Vision; +2 Racial bonus to Disguise, Investigation, and Persuasion |
+| Bear | Bear | +2 Constitution | Scent with a 30-ft range; +2 Racial bonus to Intimidate |
+| Tengu | Raven | +2 Intelligence | Low-Light Vision; +2 Racial bonus to sight-based Perception; Poor Flight, 20 ft. |
 
 ## Form Profiles
 
@@ -67,6 +67,10 @@ The natural attacks below are available in both hybrid and natural animal forms.
 | Tengu | Beak (main hand) | 1d4 | Blunt, piercing, and slashing |
 | Tengu | Talon 1 (off hand) | 1d4 | Piercing and slashing |
 | Tengu | Talon 2 (off hand) | 1d4 | Piercing and slashing |
+
+## Primal Shifter Synergy
+
+A Wolf Hengeyokai with at least one level of Primal Shifter has Persistent Shifting for its wolf form from Primal Shifter level 1. Shifting into wolf form has no limited upkeep duration, instead of the standard 1-hour duration. Other forms and other Hengeyokai types are unchanged. See [Persistent Shifting](../classes/base-classes/primal-shifter/abilities/persistent-shifting.md).
 
 <nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
 <span style="font-weight:600;align-self:center;">Related:</span>

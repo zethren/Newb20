@@ -7,9 +7,9 @@ The Feline form is the Primal Shifter's striker and assassin profile. Its shifte
 | 1 | 1 | Medium | +0 | +2 | +0 | +1 | Low-light vision; [Sneak Attack](../abilities/feline-sneak-attack.md), 1d6 |
 | 2 | 4 | Large | +2 | +4 | +2 | +2 | [Pounce](../abilities/pounce.md) |
 | 3 | 8 | Large | +2 | +6 | +2 | +3 | [Sneak Attack](../abilities/feline-sneak-attack.md), 3d6 total |
-| 4 | 12 | Large | +2 | +8 | +2 | +4 | [Persistent Shifting](../abilities/persistent-shifting.md) |
+| 4 | 12 | Large | +2 | +8 | +2 | +4 | - |
 | 5 | 16 | Huge | +4 | +10 | +4 | +5 | [Sneak Attack](../abilities/feline-sneak-attack.md), 5d6 total |
-| 6 | 20 | Huge | +4 | +12 | +4 | +7 | [Swift Shifting](../abilities/swift-shifting.md) |
+| 6 | 20 | Huge | +4 | +12 | +4 | +7 | - |
 
 ## Natural Attacks
 

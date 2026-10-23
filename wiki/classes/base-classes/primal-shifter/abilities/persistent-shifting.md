@@ -1,8 +1,12 @@
 # Persistent Shifting
 
-**Class:** Primal Shifter 12
+**Class:** Primal Shifter 12 (Wolf Hengeyokai: Primal Shifter 1 for the wolf form)
 
-The Shifter's form no longer has a limited upkeep duration; shifting can be maintained indefinitely.
+Persistent Shifting is a class feature. It removes the upkeep duration limit for every shifted form, so shifting can be maintained indefinitely.
+
+## Wolf Hengeyokai Synergy
+
+A [Wolf Hengeyokai](../../../../races/hengeyokai.md) with at least one level of Primal Shifter has Persistent Shifting for its wolf form from Primal Shifter level 1. Shifting into wolf form has no limited upkeep duration, instead of the standard 1-hour duration. All shifted forms gain Persistent Shifting at Primal Shifter level 12 as a class feature. The Wolf Hengeyokai synergy above applies only to wolf form and only to Wolf Hengeyokai.
 
 **Related:** [Primal Shifter](../index.md) · [Shifting Talent](shifting-talent.md)
 

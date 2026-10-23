@@ -19,6 +19,5 @@ The Bear subtracts its DR value from each instance of physical blunt, piercing, 
 <a href="../index.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Primal Shifter</a>
 <a href="../../../index.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Classes</a>
 <a href="../forms/bear.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Bear Form</a>
-<a href="alphas-howl.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Alpha&#x27;s Howl</a>
 <a href="bear-maneuvering-stance.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Bear&#x27;s Maneuvering Stance</a>
 </nav>

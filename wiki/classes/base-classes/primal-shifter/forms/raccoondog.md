@@ -7,9 +7,9 @@ The Raccoondog form is the Primal Shifter's agile trickster and infiltrator. Tan
 | 1 | 1 | Medium | +0 | +2 | +0 | +1 | Low-light vision; climb speed 20 ft.; +2 Racial bonus to Stealth |
 | 2 | 4 | Large | +2 | +4 | +2 | +2 | [Misdirection](../abilities/misdirection.md); climb speed 30 ft. |
 | 3 | 8 | Large | +2 | +6 | +2 | +3 | [Slip Away](../abilities/slip-away.md); +2 Racial bonus to Disguise and Investigation |
-| 4 | 12 | Large | +2 | +8 | +2 | +4 | [Persistent Shifting](../abilities/persistent-shifting.md) |
+| 4 | 12 | Large | +2 | +8 | +2 | +4 | - |
 | 5 | 16 | Huge | +4 | +10 | +4 | +5 | [False Double](../abilities/false-double.md); +2 Racial bonus to Persuasion |
-| 6 | 20 | Huge | +4 | +12 | +4 | +7 | [Swift Shifting](../abilities/swift-shifting.md) |
+| 6 | 20 | Huge | +4 | +12 | +4 | +7 | - |
 
 ## Natural Attacks
 

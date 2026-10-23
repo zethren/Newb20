@@ -98,6 +98,7 @@ Routine spellcasting does not require a Concentration check. A specific disrupti
 - [Transformation Rules](game-mechanics/transformations.md) distinguishes ordinary Polymorph effects, which meld worn and carried items, from Baleful Polymorph and transformative curses, which follow the Shifter item rule.
 - While mounted, casting a spell with somatic or verbal components requires a Concentration check against `DC = 15 + spell level`. See [Mounted Combat](game-mechanics/mounted-combat.md).
 - Entangled characters require a Concentration check against `DC = 15 + spell level` to cast any spell. See [Conditions](game-mechanics/conditions.md).
+- Grappled and Pinned characters require a Concentration check against a DC equal to the grappler's or pinner's CMD to cast any spell. Pinned characters also cannot cast spells with somatic components. See [Conditions](game-mechanics/conditions.md).
 - Casting under threat can provoke Attacks of Opportunity and require Concentration checks; see [Casting in Combat](#casting-in-combat).
 - The Bodyguard's damage-interception feature applies to damage from spells, subject to its adjacency and area-effect rules. See [Bodyguard](classes/prestige-classes/bodyguard/index.md).
 

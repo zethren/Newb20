@@ -7,9 +7,9 @@ The Turtle form is the Primal Shifter's aquatic grappler and shell-armored defen
 | 1 | 1 | Medium | +0 | +0 | +2 | +2 | Swim speed 30 ft. |
 | 2 | 4 | Large | +2 | +0 | +4 | +4 | [Shell Guard](../abilities/shell-guard.md); swim speed 40 ft. |
 | 3 | 8 | Large | +2 | -2 | +6 | +6 | [Undertow](../abilities/undertow.md) |
-| 4 | 12 | Large | +2 | -2 | +8 | +8 | [Persistent Shifting](../abilities/persistent-shifting.md) |
+| 4 | 12 | Large | +2 | -2 | +8 | +8 | - |
 | 5 | 16 | Huge | +4 | -4 | +12 | +10 | [Shell Fortress](../abilities/shell-fortress.md); swim speed 50 ft. |
-| 6 | 20 | Huge | +4 | -4 | +16 | +12 | [Swift Shifting](../abilities/swift-shifting.md) |
+| 6 | 20 | Huge | +4 | -4 | +16 | +12 | - |
 
 ## Natural Attacks
 

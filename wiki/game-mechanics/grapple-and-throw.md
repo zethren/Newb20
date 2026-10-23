@@ -6,7 +6,7 @@ These rules govern grappling, thrashing, and throwing creatures. Apply the share
 
 ## 1. The Unified Grapple Engine (Size-Based Dominance)
 
-When an initiator succeeds on a grapple check, the maintenance requirements and active status effects are governed completely by the **Global Size Differential**. Once a hold is successfully established, it persists automatically until the victim uses their own turn to break it. The **All-In Thrash** pathway is the sole exception: its follow-up MAB check is a risk gate specific to that multi-attack action.
+When an initiator succeeds on a grapple check, the maintenance requirements and active status effects are governed completely by the **Global Size Differential**. Once a hold is successfully established, it persists automatically until the victim uses their own turn to break it. Holds started by Snatch follow the stages in [Snatch](../classes/base-classes/primal-shifter/abilities/snatch.md) instead.
 
 ### Size Comparison Matrix
 
@@ -14,31 +14,18 @@ When an initiator succeeds on a grapple check, the maintenance requirements and 
 | :--- | :--- | :--- | :--- | :--- |
 | **Victim is Equal or Larger** | **Grappled**<br>*(Reduced AC, Immobilized)* | **Grappled**<br>*(Reduced AC, Immobilized)* | **0 ft.**<br>*(Immobilized)* | Must spend a standard action to advance or upgrade the hold (Pin, Toss, etc.). |
 | **Initiator is 1 Size Larger** | **Unhindered**<br>*(Full AC, Fully Mobile)* | **Grappled**<br>*(Reduced AC, Immobilized)* | **1/2 Base Speed**<br>*(Can drag victim along)* | Full Action Economy. Can utilize standard / iterative attacks or specialized maneuvers. |
-| **Initiator is 2+ Sizes Larger**| **Unhindered**<br>*(Full AC, Fully Mobile)* | **[Restrained](conditions.md#restrained)**<br>*(Severe AC Penalty, [Helpless](conditions.md#helpless))*| **Full Base Speed**<br>*(Can carry victim freely)* | Full Action Economy. Can treat victim entirely as an improvised projectile or object. |
+| **Initiator is 2+ Sizes Larger**| **Unhindered**<br>*(Full AC, Fully Mobile)* | **[Pinned](conditions.md#pinned)**<br>*(Flat-Footed AC, -4 AC, No Attacks or Somatic Spells)*| **Full Base Speed**<br>*(Can carry victim freely)* | Full Action Economy. Can treat victim entirely as an improvised projectile or object. |
 
 ### The Turn Rules
 
 *   **The Initiator's Turn:** If the initiator has a size advantage, they do not need to spend an action to maintain the hold. They possess their entire action economy to move, attack the victim, strike secondary nearby targets, or spend an action to advance the hold into a Pin or Toss. Primary weapons are locked unless the initiator possesses the specific **Snag** feature.
-*   **The Victim's Turn:** The victim must spend a Standard Action to attempt an Escape roll (MAB or Escape Artist vs. Initiator's static MAD). If they fail or choose not to escape, any counter-attacks they attempt suffer heavy system penalties due to being grappled/restrained.
+*   **The Victim's Turn:** The victim must spend a Standard Action to attempt an Escape roll (MAB or Escape Artist vs. Initiator's static MAD). If they fail or choose not to escape, a pinned victim cannot counter-attack, and a grappled victim is limited to unarmed strikes, natural weapons, or light melee weapons.
 
 ---
 
-## 2. Post-Snatch Combat Pathways
+## 2. Snatch Holds
 
-Once a target is secured in a grapple, an unhindered initiator can resolve their combat turn via two distinct mechanical pathways.
-
-### Pathway A: The All-In Thrash (The Multi-Attack Gambler)
-*   **Action Cost:** Full Attack Action.
-*   **The Roll:** Multiple iterative attack rolls against the target's lowered AC using claws, paws, or secondary natural weapons. (The primary grabbing limb cannot target anyone else).
-*   **The Risk/Reward Gate:**
-    1.  The initiator must hit with **at least one** attack in the routine to deal damage.
-    2.  If at least one attack hits, the initiator **MUST roll an MAB vs. MAD check** to maintain the grapple.
-    3.  If all attacks in the routine miss, OR if the follow-up MAB check fails, the hold breaks instantly and the victim slips free into an adjacent square.
-
-### Pathway B: The Secured Crush (The Reliable MAB Attack)
-*   **Action Cost:** Standard Action.
-*   **The Roll:** A single **MAB vs. MAD** roll to crush, slam, or squeeze the target.
-*   **The Resolution:** If the MAB check is successful, it is an **automatic hit**. The target takes baseline natural weapon damage plus size/strength scaling, and the hold is securely maintained without any further rolls.
+Holds started by Snatch use the three-stage sequence in [Snatch](../classes/base-classes/primal-shifter/abilities/snatch.md). In that sequence, Thrash is a move action that automatically applies damage and does not require a maintenance check.
 
 ---
 

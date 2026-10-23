@@ -7,9 +7,9 @@ The Wolf form is the Primal Shifter's brawler and vanguard profile. Its shifter 
 | 1 | 1 | Medium | +2 | +0 | +0 | +2 | Scent 30 ft. |
 | 2 | 4 | Large | +4 | +0 | +4 | +2 | [Snatch](../abilities/snatch.md) |
 | 3 | 8 | Large | +6 | +0 | +4 | +4 | [Pack Tactics](../abilities/pack-tactics.md) |
-| 4 | 12 | Large | +6 | +0 | +4 | +6 | [Persistent Shifting](../abilities/persistent-shifting.md) |
-| 5 | 16 | Huge | +8 | +0 | +8 | +8 | [Alpha's Howl](../abilities/alphas-howl.md) |
-| 6 | 20 | Huge | +10 | +2 | +12 | +10 | [Swift Shifting](../abilities/swift-shifting.md) |
+| 4 | 12 | Large | +6 | +0 | +4 | +6 | - |
+| 5 | 16 | Huge | +8 | +0 | +8 | +8 | [Pack Leader](../abilities/pack-leader.md) |
+| 6 | 20 | Huge | +10 | +2 | +12 | +10 | - |
 
 ## Natural Attacks
 
@@ -31,5 +31,5 @@ See [Shifting Talent](../abilities/shifting-talent.md) for form-tier unlocks.
 <a href="../../../../game-mechanics/combat-scaling.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Combat Scaling</a>
 <a href="../abilities/snatch.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Snatch</a>
 <a href="../abilities/pack-tactics.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Pack Tactics</a>
-<a href="../abilities/persistent-shifting.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Persistent Shifting</a>
+<a href="../abilities/pack-leader.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Pack Leader</a>
 </nav>

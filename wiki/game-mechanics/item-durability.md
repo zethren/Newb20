@@ -8,15 +8,15 @@ Magic items cannot be destroyed by reducing their structural Hit Points to 0. Th
 
 ### Broken Weapons
 When a weapon (mundane or magical) is reduced to or below 50% of its maximum structural Hit Points, it cracks, warps, or fractures, compromising its combat efficacy:
-* **The Accuracy Tax:** The wielder suffers a flat **-2 penalty to all attack rolls** executed with this weapon.
-* **The Damage Tax:** The wielder suffers a flat **-2 penalty to all damage rolls** executed with this weapon.
+* **Attack Penalty:** The wielder suffers a flat **-2 penalty to all attack rolls** executed with this weapon.
+* **Damage Penalty:** The wielder suffers a flat **-2 penalty to all damage rolls** executed with this weapon.
 * **Critical Suppression:** The weapon's critical hit multiplier is automatically reduced to a maximum threshold of **x2** (if it was originally higher).
 
 ### Broken Armor & Shields
 When a defensive protective item is reduced to or below 50% of its maximum structural Hit Points, its plating buckles or its supportive straps snap:
-* **The Defense Tax:** The static Armor Class (AC) or Shield bonus granted to the wearer is immediately cut in **half** (rounded down).
+* **Defense Reduction:** The static Armor Class (AC) or Shield bonus granted to the wearer is immediately cut in **half** (rounded down).
 * **Magical Suppression:** All magical Enhancement bonuses and special armor properties (e.g., *Fortification*, *Energy Resistance*) are completely suppressed and deactivated while the armor remains broken.
-* **The Encumbrance Tax:** The item's native Armor Check Penalty is doubled.
+* **Encumbrance Effect:** The item's native Armor Check Penalty is doubled.
 
 <nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">
 <span style="font-weight:600;align-self:center;">Related:</span>

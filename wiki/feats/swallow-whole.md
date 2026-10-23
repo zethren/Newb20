@@ -4,13 +4,13 @@
 
 **Prerequisites:** Snatch class feature or Improved Grapple feat (not yet defined).
 
-You can gulp down completely restrained, significantly smaller foes, trapping them inside your digestive tract to remove them from active grid coordination.
+You can gulp down completely held, significantly smaller foes, trapping them inside your digestive tract to remove them from active grid coordination.
 
 **Target Constraint:** The target must be at least two size categories smaller than you (for example, a Medium human for a Huge predator, or a Small halfling for a Large predator).
 
-**Action:** Free Action, triggered exclusively at the start of your turn.
+**Action:** Free Action, taken during Stage 2 of a [Snatch](../classes/base-classes/primal-shifter/abilities/snatch.md) hold.
 
-**Trigger:** You must begin your turn already holding an eligible target in a persistent grapple or snatch state.
+**Trigger:** The eligible target is held by Snatch, and the hold is in Stage 2.
 
 ## Internal Resolution and Action Loop
 
@@ -22,7 +22,7 @@ You can gulp down completely restrained, significantly smaller foes, trapping th
 
 ## The Prey's Standard Action Choices
 
-After taking the automated damage on their turn, the victim must spend their Standard Action to attempt one of these escape pathways.
+After taking the automated damage on their turn, the victim must spend their Standard Action to attempt the escape pathway below.
 
 ### Mechanical Escape (MAB or Escape Artist)
 
@@ -31,14 +31,9 @@ The victim attempts to fight against the peristaltic muscle walls and crawl back
 - **Check:** The victim rolls an Escape Artist skill check or a Martial Ability Check (MAB) against your static Grapple MAD.
 - **Success:** The victim breaks the hold. Remove the `Swallowed` status and place the victim in a chosen adjacent 5-foot grid square outside your body, Prone.
 
-### Physical Retaliation (Attacking the Stomach)
+### Stomach Attacks (Not Available)
 
-The victim attempts to cut or claw their way to freedom by killing you from the inside. Under the Pinned condition, their attack is restricted as follows:
-
-1. **Action Lock:** They are restricted to a single melee attack per round and cannot use Full Attacks or multi-weapon flurries.
-2. **Weapon Lock:** They can use only light piercing or slashing weapons, such as daggers, shortswords, or natural claws.
-3. **Accuracy Penalty:** They take a -4 penalty to the attack roll due to severe physical constriction.
-4. **Target Defense:** Attacks target your Flat-Footed AC. You lose your Dexterity AC and Dodge AC components but retain Natural Armor, Shield/Deflection AC, and standard Armor AC. See [Armor Class Components](../game-mechanics/armor-class.md).
+A swallowed victim cannot attack from inside the stomach. Under [Pinned](../game-mechanics/conditions.md#pinned), attack rolls are not allowed, so Mechanical Escape is the only escape pathway.
 
 ## Stomach Volume Capacity
 

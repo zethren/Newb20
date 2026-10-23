@@ -9,7 +9,7 @@ The Raven form is the Primal Shifter's aerial scout and skirmisher. Tengu Hengey
 | 3 | 8 | Large | +2 | +6 | +2 | +3 | [Raven's Eye](../abilities/ravens-eye.md); Poor Flight 40 ft. |
 | 4 | 12 | Large | +2 | +8 | +2 | +4 | Good Flight 40 ft. |
 | 5 | 16 | Huge | +4 | +10 | +4 | +5 | [Swooping Assault](../abilities/swooping-assault.md); Good Flight 50 ft. |
-| 6 | 20 | Huge | +4 | +12 | +4 | +7 | Good Flight 60 ft.; [Swift Shifting](../abilities/swift-shifting.md) |
+| 6 | 20 | Huge | +4 | +12 | +4 | +7 | [Hit and Run](../abilities/hit-and-run.md); Good Flight 60 ft. |
 
 Poor and Good Flight use the shared [Flight Rules](../../../../game-mechanics/flight.md). Poor Flight's airborne penalties apply at tiers 1-3. Flight speed and maneuverability at tiers 4-6 follow the Good Flight rules.
 
@@ -34,4 +34,5 @@ See [Primal Shifter](../index.md) and [Shifting Talent](../abilities/shifting-ta
 <a href="../abilities/talon-snatch.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Talon Snatch</a>
 <a href="../abilities/ravens-eye.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Raven&#x27;s Eye</a>
 <a href="../abilities/swooping-assault.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Swooping Assault</a>
+<a href="../abilities/hit-and-run.html" style="display:inline-block;padding:.35rem .65rem;border:1px solid #888;border-radius:4px;color:inherit;text-decoration:none;">Hit and Run</a>
 </nav>

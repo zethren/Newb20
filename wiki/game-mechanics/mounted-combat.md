@@ -22,7 +22,7 @@ Any character actively riding a creature is subjected to a constant state of kin
 *   **The Bestial Turbulence Multiplier:** If the creature being ridden is a wild predator, untamed monster, or shape-shifted ally form (such as a **Wolf** or **Bear**), the kinetic disruption is doubled. The Rider instead suffers a severe **-4 penalty to AB** and a **-4 penalty to AC**.
 
 ### Spellcasting
-*   **The Concentration Tax:** Executing any spell possessing Somatic or Verbal components while mounted requires an immediate, mandatory **Concentration Check (DC = 15 + Spell Level)** due to the constant jarring motion of the steed. If this check is failed, the spell fails and its casting resource is expended.
+*   **Concentration Check:** Executing any spell possessing Somatic or Verbal components while mounted requires an immediate, mandatory **Concentration Check (DC = 15 + Spell Level)** due to the constant jarring motion of the steed. If this check is failed, the spell fails and its casting resource is expended.
 
 ---
 
@@ -57,7 +57,7 @@ The Rider is cleanly ejected from the saddle:
 ### Locking Harness
 The Rider is strapped into a heavy, reinforced framework of iron brackets and leather braces that physically prevents ejection.
 *   **The Mechanical Safety:** The Rider **cannot be unseated or knocked off** via standard attack or damage stability checks. They remain locked onto the Mount's back.
-*   **The Whiplash Tax:** Because their body is rigidly fused to a thrashing apex predator, their joints take the full structural trauma of the impact. The moment a Ride Check is failed, the Rider completely avoids falling off, but **instantly inherits the Staggered status condition until the start of their next turn** as they catch their breath from severe kinetic whiplash.
+*   **Whiplash Effect:** Because their body is rigidly fused to a thrashing apex predator, their joints take the full structural trauma of the impact. The moment a Ride Check is failed, the Rider completely avoids falling off, but **instantly inherits the Staggered status condition until the start of their next turn** as they catch their breath from severe kinetic whiplash.
 *   **The Emergency Trap:** If the Mount is knocked **Prone** or dies while a Rider is locked into a securing harness, the Rider cannot escape. They are automatically pinned underneath the carcass, take double blunt damage (`2d6`), and require a Full-Round Action from themselves or an ally to cut the straps free.
 
 ---

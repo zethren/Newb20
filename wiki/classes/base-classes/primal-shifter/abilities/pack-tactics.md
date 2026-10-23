@@ -2,7 +2,7 @@
 
 **Class:** Primal Shifter (Wolf form), Tier 3
 
-While flanking a creature with an ally, the Wolf gains +2 AB and +2 MAB against that creature. These bonuses stack with the system's baseline flanking modifiers.
+While flanking a creature with an ally, the Wolf gains +2 AB and +2 MAB against that creature. These bonuses stack with the system's baseline flanking modifiers. At Tier 5, [Pack Leader](pack-leader.md) extends a similar bonus to allies.
 
 **Related:** [Wolf Form](../forms/wolf.md) · [Combat](../../../../combat.md)
 

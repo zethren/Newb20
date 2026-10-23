@@ -15,7 +15,7 @@ Planar-touched heritages combine with a base race and replace its other special 
 | [Gnome](races/gnome.md) | Base race | Small Size, +2 Intelligence, darkvision, and Illusion benefits. |
 | [Aasimar](races/aasimar.md) | Plane-touched | Choose a base race and electric or acid resistance; gains wings and fixed skill bonuses. |
 | [Tiefling](races/tiefling.md) | Plane-touched | Choose a base race and fire or cold resistance; gains darkvision, a prehensile tail, and fixed skill bonuses. |
-| [Hengeyokai](races/hengeyokai.md) | Spirit | Choose an animal type; gains three forms, a flexible +2 ability bonus, animal traits, and natural attacks. |
+| [Hengeyokai](races/hengeyokai.md) | Spirit | Choose an animal type; gains three forms, an animal-type-specific +2 ability bonus, animal traits, and natural attacks. |
 | [Kitsune](races/kitsune.md) | Spirit | Fox, hybrid, and humanoid forms; gains magical tails with selected Ioun Stone effects. |
 
 <nav aria-label="Related pages" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:2rem;padding-top:.75rem;border-top:1px solid #aaa;">

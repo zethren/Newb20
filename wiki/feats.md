@@ -147,7 +147,7 @@ The entries below are class features, not selectable feats. They are listed here
 
 - [Snatch](classes/base-classes/primal-shifter/abilities/snatch.md)
 - [Pack Tactics](classes/base-classes/primal-shifter/abilities/pack-tactics.md)
-- [Alpha's Howl](classes/base-classes/primal-shifter/abilities/alphas-howl.md)
+- [Pack Leader](classes/base-classes/primal-shifter/abilities/pack-leader.md)
 
 ### Feline Form Features
 
@@ -160,6 +160,7 @@ The entries below are class features, not selectable feats. They are listed here
 - [Guardian's Intercept](classes/base-classes/primal-shifter/abilities/guardians-intercept.md)
 - [Bear's Maneuvering Stance](classes/base-classes/primal-shifter/abilities/bear-maneuvering-stance.md)
 - [Demoralizing Roar](classes/base-classes/primal-shifter/abilities/demoralizing-roar.md)
+- [Terrifying Roar](classes/base-classes/primal-shifter/abilities/terrifying-roar.md)
 
 ### Turtle Form Features
 
@@ -178,6 +179,7 @@ The entries below are class features, not selectable feats. They are listed here
 - [Talon Snatch](classes/base-classes/primal-shifter/abilities/talon-snatch.md)
 - [Raven's Eye](classes/base-classes/primal-shifter/abilities/ravens-eye.md)
 - [Swooping Assault](classes/base-classes/primal-shifter/abilities/swooping-assault.md)
+- [Hit and Run](classes/base-classes/primal-shifter/abilities/hit-and-run.md)
 
 ### Bodyguard
 
